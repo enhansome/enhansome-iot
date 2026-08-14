@@ -14,7 +14,7 @@
             "last_commit": "2026-08-12T15:28:21Z",
             "owner": "serverless",
             "repo": "serverless",
-            "stars": 46920
+            "stars": 46921
           }
         },
         {
@@ -25,10 +25,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-12T23:16:20Z",
+            "last_commit": "2026-08-13T17:38:42Z",
             "owner": "espressif",
             "repo": "esp-idf",
-            "stars": 18771
+            "stars": 18777
           }
         },
         {
@@ -56,7 +56,7 @@
             "last_commit": "2026-01-07T16:21:45Z",
             "owner": "hybridgroup",
             "repo": "gobot",
-            "stars": 9446
+            "stars": 9447
           }
         },
         {
@@ -81,7 +81,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-13T10:11:06Z",
+            "last_commit": "2026-08-13T16:00:54Z",
             "owner": "dotnet",
             "repo": "iot",
             "stars": 2403
@@ -179,7 +179,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-13T13:47:31Z",
+            "last_commit": "2026-08-14T10:36:02Z",
             "owner": "eclipse-kura",
             "repo": "kura",
             "stars": 571
@@ -235,7 +235,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-13T02:06:01Z",
+            "last_commit": "2026-08-13T17:21:45Z",
             "owner": "aregtech",
             "repo": "areg-sdk",
             "stars": 362
@@ -305,10 +305,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T10:55:42Z",
+            "last_commit": "2026-08-14T09:35:46Z",
             "owner": "jumpstarter-dev",
             "repo": "jumpstarter",
-            "stars": 209
+            "stars": 210
           }
         },
         {
@@ -336,7 +336,7 @@
             "last_commit": "2026-08-06T23:49:23Z",
             "owner": "simgrid",
             "repo": "simgrid",
-            "stars": 193
+            "stars": 194
           }
         },
         {
@@ -477,7 +477,7 @@
             "last_commit": "2026-07-29T14:21:18Z",
             "owner": "esp8266",
             "repo": "Arduino",
-            "stars": 16664
+            "stars": 16665
           }
         },
         {
@@ -488,7 +488,7 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-13T07:34:12Z",
+            "last_commit": "2026-08-14T13:41:02Z",
             "owner": "armbian",
             "repo": "build",
             "stars": 5351
@@ -587,7 +587,7 @@
             "last_commit": "2026-08-11T16:23:28Z",
             "owner": "bblanchon",
             "repo": "ArduinoJson",
-            "stars": 7204
+            "stars": 7203
           }
         },
         {
@@ -663,7 +663,7 @@
             "last_commit": "2024-05-29T04:55:35Z",
             "owner": "andlabs",
             "repo": "libui",
-            "stars": 10894
+            "stars": 10893
           }
         },
         {
@@ -674,10 +674,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-13T07:46:17Z",
+            "last_commit": "2026-08-14T09:08:34Z",
             "owner": "littlekernel",
             "repo": "lk",
-            "stars": 3660
+            "stars": 3661
           }
         },
         {
@@ -761,7 +761,7 @@
             "last_commit": "2026-08-13T12:03:43Z",
             "owner": "mcu-tools",
             "repo": "mcuboot",
-            "stars": 2028
+            "stars": 2029
           }
         },
         {
@@ -1127,7 +1127,7 @@
             "last_commit": "2026-08-13T02:58:25Z",
             "owner": "emqx",
             "repo": "MQTTX",
-            "stars": 5017
+            "stars": 5019
           }
         },
         {
@@ -1321,7 +1321,7 @@
             "last_commit": "2026-08-12T03:09:59Z",
             "owner": "We5ter",
             "repo": "Scanners-Box",
-            "stars": 9008
+            "stars": 9009
           }
         },
         {
@@ -1377,7 +1377,7 @@
             "last_commit": "2026-07-27T03:05:39Z",
             "owner": "hookprobe",
             "repo": "hookprobe",
-            "stars": 43
+            "stars": 44
           }
         },
         {
@@ -1408,10 +1408,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-13T08:44:48Z",
+            "last_commit": "2026-08-14T10:11:26Z",
             "owner": "openwrt",
             "repo": "openwrt",
-            "stars": 27977
+            "stars": 27979
           }
         },
         {
@@ -1422,10 +1422,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-13T10:36:11Z",
+            "last_commit": "2026-08-14T13:27:06Z",
             "owner": "zephyrproject-rtos",
             "repo": "zephyr",
-            "stars": 16199
+            "stars": 16210
           }
         },
         {
@@ -1436,10 +1436,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-13T07:51:18Z",
+            "last_commit": "2026-08-14T08:45:29Z",
             "owner": "RT-Thread",
             "repo": "rt-thread",
-            "stars": 12147
+            "stars": 12149
           }
         },
         {
@@ -1464,7 +1464,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T06:21:18Z",
+            "last_commit": "2026-08-14T02:39:34Z",
             "owner": "tock",
             "repo": "tock",
             "stars": 6410
@@ -1478,10 +1478,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-13T11:29:59Z",
+            "last_commit": "2026-08-14T13:41:33Z",
             "owner": "RIOT-OS",
             "repo": "RIOT",
-            "stars": 5775
+            "stars": 5777
           }
         },
         {
@@ -1495,7 +1495,7 @@
             "last_commit": "2026-08-06T09:16:59Z",
             "owner": "seL4",
             "repo": "seL4",
-            "stars": 5689
+            "stars": 5690
           }
         },
         {
@@ -1509,7 +1509,7 @@
             "last_commit": "2022-05-31T09:51:46Z",
             "owner": "LiteOS",
             "repo": "LiteOS",
-            "stars": 4904
+            "stars": 4905
           }
         },
         {
@@ -1523,7 +1523,7 @@
             "last_commit": "2024-10-08T17:44:17Z",
             "owner": "ARMmbed",
             "repo": "mbed-os",
-            "stars": 4866
+            "stars": 4867
           }
         },
         {
@@ -1537,7 +1537,7 @@
             "last_commit": "2024-04-06T04:09:05Z",
             "owner": "contiki-os",
             "repo": "contiki",
-            "stars": 3804
+            "stars": 3805
           }
         },
         {
@@ -1810,10 +1810,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-13T13:43:01Z",
+            "last_commit": "2026-08-13T15:08:09Z",
             "owner": "thingsboard",
             "repo": "thingsboard",
-            "stars": 22243
+            "stars": 22246
           }
         },
         {
@@ -1827,7 +1827,7 @@
             "last_commit": "2026-08-11T17:20:40Z",
             "owner": "platformio",
             "repo": "platformio-core",
-            "stars": 9399
+            "stars": 9400
           }
         },
         {
@@ -1838,10 +1838,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T20:56:35Z",
+            "last_commit": "2026-08-13T21:37:20Z",
             "owner": "frangoteam",
             "repo": "FUXA",
-            "stars": 4904
+            "stars": 4907
           }
         },
         {
@@ -1855,7 +1855,7 @@
             "last_commit": "2026-07-26T11:38:40Z",
             "owner": "cesanta",
             "repo": "mongoose-os",
-            "stars": 2661
+            "stars": 2662
           }
         },
         {
@@ -1880,7 +1880,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-12T15:31:40Z",
+            "last_commit": "2026-08-14T10:45:30Z",
             "owner": "hivemq",
             "repo": "hivemq-community-edition",
             "stars": 1204
@@ -1894,10 +1894,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-11T17:35:57Z",
+            "last_commit": "2026-08-14T11:26:18Z",
             "owner": "pnoker",
             "repo": "iot-dc3",
-            "stars": 697
+            "stars": 725
           }
         },
         {
@@ -1936,10 +1936,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T12:56:38Z",
+            "last_commit": "2026-08-14T14:25:13Z",
             "owner": "united-manufacturing-hub",
             "repo": "united-manufacturing-hub",
-            "stars": 389
+            "stars": 391
           }
         },
         {
@@ -1978,7 +1978,7 @@
           "repo_info": {
             "archived": false,
             "language": "Elixir",
-            "last_commit": "2026-08-13T09:19:31Z",
+            "last_commit": "2026-08-14T06:38:52Z",
             "owner": "astarte-platform",
             "repo": "astarte",
             "stars": 271
@@ -2135,7 +2135,7 @@
             "last_commit": "2026-08-03T01:58:53Z",
             "owner": "dingdaoyi",
             "repo": "simple-iot",
-            "stars": 26
+            "stars": 27
           }
         },
         {
@@ -2174,7 +2174,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T04:49:44Z",
+            "last_commit": "2026-08-14T14:26:04Z",
             "owner": "devicechain-io",
             "repo": "devicechain",
             "stars": 3
@@ -2257,7 +2257,7 @@
             "last_commit": "2024-11-05T17:15:58Z",
             "owner": "kaaproject",
             "repo": "kaa",
-            "stars": 1435
+            "stars": 1434
           }
         },
         {
@@ -2268,10 +2268,24 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-12T22:42:43Z",
+            "last_commit": "2026-08-13T22:42:36Z",
             "owner": "Edgenesis",
             "repo": "shifu",
             "stars": 1431
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zilla",
+          "description": "A Multi-protocol event-native edge/service proxy that supports standard protocols such as HTTP, SSE, gRPC, MQTT and the native Kafka protocol.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-14T07:16:10Z",
+            "owner": "aklivity",
+            "repo": "zilla",
+            "stars": 1054
           }
         },
         {
@@ -2286,20 +2300,6 @@
             "owner": "iobridge",
             "repo": "thingspeak",
             "stars": 1048
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Zilla",
-          "description": "A Multi-protocol event-native edge/service proxy that supports standard protocols such as HTTP, SSE, gRPC, MQTT and the native Kafka protocol.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-13T07:58:03Z",
-            "owner": "aklivity",
-            "repo": "zilla",
-            "stars": 1046
           }
         },
         {
@@ -2327,7 +2327,7 @@
             "last_commit": "2023-02-22T00:39:31Z",
             "owner": "OpenIotOrg",
             "repo": "openiot",
-            "stars": 469
+            "stars": 470
           }
         },
         {
@@ -2372,10 +2372,10 @@
           "repo_info": {
             "archived": false,
             "language": "RobotFramework",
-            "last_commit": "2026-08-13T14:30:42Z",
+            "last_commit": "2026-08-14T13:59:15Z",
             "owner": "renode",
             "repo": "renode",
-            "stars": 2722
+            "stars": 2720
           }
         },
         {
@@ -2485,7 +2485,7 @@
             "last_commit": "2026-05-28T14:43:01Z",
             "owner": "d3",
             "repo": "d3",
-            "stars": 113447
+            "stars": 113450
           }
         },
         {
@@ -2499,7 +2499,7 @@
             "last_commit": "2026-08-04T09:07:09Z",
             "owner": "apache",
             "repo": "echarts",
-            "stars": 67065
+            "stars": 67067
           }
         },
         {
@@ -2510,10 +2510,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T13:26:34Z",
+            "last_commit": "2026-08-14T11:17:44Z",
             "owner": "highcharts",
             "repo": "highcharts",
-            "stars": 12478
+            "stars": 12480
           }
         },
         {
@@ -2527,7 +2527,7 @@
             "last_commit": "2019-04-29T15:20:09Z",
             "owner": "Shopify",
             "repo": "dashing",
-            "stars": 10909
+            "stars": 10908
           }
         },
         {
@@ -2541,7 +2541,7 @@
             "last_commit": "2023-09-23T21:14:02Z",
             "owner": "Freeboard",
             "repo": "freeboard",
-            "stars": 6504
+            "stars": 6503
           }
         },
         {
@@ -2601,7 +2601,7 @@
             "last_commit": "2024-02-06T11:08:38Z",
             "owner": "pulp-platform",
             "repo": "pulpino",
-            "stars": 1058
+            "stars": 1059
           }
         },
         {
@@ -2736,10 +2736,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T13:35:03Z",
+            "last_commit": "2026-08-13T19:42:47Z",
             "owner": "homebridge",
             "repo": "homebridge",
-            "stars": 25446
+            "stars": 25451
           }
         },
         {
@@ -2750,10 +2750,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-01T07:52:46Z",
+            "last_commit": "2026-08-13T15:42:31Z",
             "owner": "node-red",
             "repo": "node-red",
-            "stars": 23527
+            "stars": 23530
           }
         },
         {
@@ -2809,7 +2809,7 @@
             "last_commit": "2026-08-10T03:58:56Z",
             "owner": "openhab",
             "repo": "openhab-distro",
-            "stars": 1389
+            "stars": 1390
           }
         },
         {
@@ -2932,7 +2932,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-07T08:29:00Z",
+            "last_commit": "2026-08-14T08:10:04Z",
             "owner": "BitWise-0x",
             "repo": "homebridge-blink-security",
             "stars": 12
@@ -3083,7 +3083,7 @@
             "last_commit": "2026-06-30T19:34:07Z",
             "owner": "microsoft",
             "repo": "AirSim",
-            "stars": 18396
+            "stars": 18400
           }
         },
         {
@@ -3097,7 +3097,7 @@
             "last_commit": "2026-07-22T14:58:48Z",
             "owner": "hubotio",
             "repo": "hubot",
-            "stars": 16794
+            "stars": 16795
           }
         },
         {
@@ -3128,10 +3128,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-13T14:31:49Z",
+            "last_commit": "2026-08-14T12:43:25Z",
             "owner": "arendst",
             "repo": "Tasmota",
-            "stars": 24691
+            "stars": 24697
           }
         },
         {
@@ -3142,10 +3142,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-01T07:52:46Z",
+            "last_commit": "2026-08-13T15:42:31Z",
             "owner": "node-red",
             "repo": "node-red",
-            "stars": 23527
+            "stars": 23530
           }
         },
         {
@@ -3170,7 +3170,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-13T08:34:17Z",
+            "last_commit": "2026-08-14T09:18:07Z",
             "owner": "fluent",
             "repo": "fluent-bit",
             "stars": 8029
@@ -3229,7 +3229,7 @@
             "last_commit": "2017-11-13T15:08:37Z",
             "owner": "emul8",
             "repo": "emul8",
-            "stars": 114
+            "stars": 113
           }
         },
         {
@@ -3356,10 +3356,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-13T14:26:11Z",
+            "last_commit": "2026-08-14T03:00:27Z",
             "owner": "micropython",
             "repo": "micropython",
-            "stars": 21989
+            "stars": 21992
           }
         },
         {
@@ -3398,7 +3398,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-10T02:44:45Z",
+            "last_commit": "2026-08-14T03:25:34Z",
             "owner": "terralang",
             "repo": "terra",
             "stars": 2901
@@ -3415,7 +3415,7 @@
             "last_commit": "2026-07-31T18:04:15Z",
             "owner": "atomvm",
             "repo": "AtomVM",
-            "stars": 2195
+            "stars": 2196
           }
         },
         {
@@ -3429,7 +3429,7 @@
             "last_commit": "2026-08-07T01:05:34Z",
             "owner": "pikasTech",
             "repo": "PikaPython",
-            "stars": 1743
+            "stars": 1744
           }
         },
         {
@@ -3516,10 +3516,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-13T12:27:58Z",
+            "last_commit": "2026-08-14T13:06:22Z",
             "owner": "Mbed-TLS",
             "repo": "mbedtls",
-            "stars": 6870
+            "stars": 6869
           }
         },
         {
@@ -3595,7 +3595,7 @@
           "repo_info": {
             "archived": false,
             "language": "Erlang",
-            "last_commit": "2026-08-13T09:25:29Z",
+            "last_commit": "2026-08-13T21:18:10Z",
             "owner": "emqx",
             "repo": "emqx",
             "stars": 16617
@@ -3612,7 +3612,7 @@
             "last_commit": "2026-07-30T09:31:44Z",
             "owner": "eclipse-mosquitto",
             "repo": "mosquitto",
-            "stars": 11116
+            "stars": 11119
           }
         },
         {
@@ -3626,7 +3626,7 @@
             "last_commit": "2026-07-20T09:30:04Z",
             "owner": "mqttjs",
             "repo": "MQTT.js",
-            "stars": 9105
+            "stars": 9104
           }
         },
         {
@@ -3654,7 +3654,7 @@
             "last_commit": "2026-08-09T16:15:43Z",
             "owner": "vernemq",
             "repo": "vernemq",
-            "stars": 3619
+            "stars": 3620
           }
         },
         {
@@ -3679,7 +3679,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-12T09:52:31Z",
+            "last_commit": "2026-08-14T11:38:33Z",
             "owner": "nanomq",
             "repo": "nanomq",
             "stars": 2587
@@ -3710,7 +3710,7 @@
             "last_commit": "2026-07-21T14:09:03Z",
             "owner": "eclipse-paho",
             "repo": "paho.mqtt.c",
-            "stars": 2348
+            "stars": 2349
           }
         },
         {
@@ -3805,7 +3805,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-13T11:58:44Z",
+            "last_commit": "2026-08-13T16:36:15Z",
             "owner": "wolfSSL",
             "repo": "wolfMQTT",
             "stars": 590
@@ -3969,7 +3969,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-12T19:30:04Z",
+            "last_commit": "2026-08-14T05:25:17Z",
             "owner": "eclipse-californium",
             "repo": "californium",
             "stars": 775
@@ -4363,7 +4363,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-13T00:41:52Z",
+            "last_commit": "2026-08-13T17:52:07Z",
             "owner": "openthread",
             "repo": "openthread",
             "stars": 4013
@@ -4377,7 +4377,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-13T09:22:38Z",
+            "last_commit": "2026-08-14T09:22:24Z",
             "owner": "openthread",
             "repo": "ot-br-posix",
             "stars": 562
@@ -4400,7 +4400,7 @@
             "last_commit": "2026-06-10T07:52:18Z",
             "owner": "libimobiledevice",
             "repo": "libimobiledevice",
-            "stars": 8103
+            "stars": 8104
           }
         },
         {
@@ -4414,7 +4414,7 @@
             "last_commit": "2025-03-04T08:46:43Z",
             "owner": "deepops-ai",
             "repo": "deepops",
-            "stars": 3966
+            "stars": 3965
           }
         },
         {
@@ -4462,7 +4462,7 @@
             "last_commit": "2026-07-02T10:16:05Z",
             "owner": "stephane",
             "repo": "libmodbus",
-            "stars": 4230
+            "stars": 4228
           }
         },
         {
@@ -4476,7 +4476,7 @@
             "last_commit": "2026-08-13T09:40:11Z",
             "owner": "pymodbus-dev",
             "repo": "pymodbus",
-            "stars": 2753
+            "stars": 2754
           }
         },
         {
@@ -4664,10 +4664,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T14:12:32Z",
+            "last_commit": "2026-08-14T14:17:01Z",
             "owner": "servo",
             "repo": "servo",
-            "stars": 37688
+            "stars": 37701
           }
         },
         {
@@ -4678,10 +4678,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-13T14:30:56Z",
+            "last_commit": "2026-08-14T10:14:15Z",
             "owner": "RobotLocomotion",
             "repo": "drake",
-            "stars": 4148
+            "stars": 4150
           }
         },
         {
@@ -4692,7 +4692,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T14:07:53Z",
+            "last_commit": "2026-08-13T21:38:49Z",
             "owner": "shellhub-io",
             "repo": "shellhub",
             "stars": 2060
@@ -4706,7 +4706,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T13:37:41Z",
+            "last_commit": "2026-08-13T16:01:54Z",
             "owner": "TheThingsNetwork",
             "repo": "lorawan-stack",
             "stars": 1160
@@ -4841,7 +4841,7 @@
             "last_commit": "2026-07-15T14:54:07Z",
             "owner": "processing",
             "repo": "processing",
-            "stars": 6485
+            "stars": 6484
           }
         },
         {
@@ -4875,7 +4875,7 @@
             "last_commit": "2026-07-26T11:38:40Z",
             "owner": "cesanta",
             "repo": "mongoose-os",
-            "stars": 2661
+            "stars": 2662
           }
         },
         {
@@ -4942,7 +4942,7 @@
             "last_commit": "2021-06-25T15:10:11Z",
             "owner": "phodal",
             "repo": "designiot",
-            "stars": 2226
+            "stars": 2227
           }
         },
         {
@@ -5075,7 +5075,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-13T02:06:01Z",
+            "last_commit": "2026-08-13T17:21:45Z",
             "owner": "aregtech",
             "repo": "areg-sdk",
             "stars": 362
@@ -5177,10 +5177,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T09:56:04Z",
+            "last_commit": "2026-08-14T14:23:03Z",
             "owner": "netdata",
             "repo": "netdata",
-            "stars": 80171
+            "stars": 80198
           }
         },
         {
@@ -5191,10 +5191,10 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-13T14:26:05Z",
+            "last_commit": "2026-08-14T14:10:22Z",
             "owner": "matomo-org",
             "repo": "matomo",
-            "stars": 21762
+            "stars": 21767
           }
         },
         {
@@ -5270,7 +5270,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T14:35:59.071Z",
+    "last_updated": "2026-08-14T14:29:53.332Z",
     "original_repository": "phodal/awesome-iot",
     "original_repository_sha": "16d29c7de5e1ee6821ebd34aac4cf4e268f4646c",
     "enhanced_repository": "enhansome/enhansome-iot",
