@@ -81,7 +81,7 @@
             "last_commit": "2026-08-20T16:14:13Z",
             "owner": "serverless",
             "repo": "serverless",
-            "stars": 46917
+            "stars": 46918
           }
         },
         {
@@ -393,7 +393,7 @@
             "archived": false,
             "id": 1138269866,
             "language": "Python",
-            "last_commit": "2026-08-24T13:44:24Z",
+            "last_commit": "2026-08-24T14:15:17Z",
             "owner": "jumpstarter-dev",
             "repo": "jumpstarter",
             "stars": 211
@@ -1539,7 +1539,7 @@
             "archived": false,
             "id": 59771425,
             "language": "C",
-            "last_commit": "2026-08-24T12:51:38Z",
+            "last_commit": "2026-08-24T14:27:17Z",
             "owner": "zephyrproject-rtos",
             "repo": "zephyr",
             "stars": 16296
@@ -1614,10 +1614,10 @@
             "archived": false,
             "id": 21977691,
             "language": "C",
-            "last_commit": "2026-08-24T11:03:14Z",
+            "last_commit": "2026-08-24T14:20:18Z",
             "owner": "seL4",
             "repo": "seL4",
-            "stars": 5707
+            "stars": 5708
           }
         },
         {
@@ -2098,7 +2098,7 @@
             "archived": false,
             "id": 328461176,
             "language": "Go",
-            "last_commit": "2026-08-24T13:00:07Z",
+            "last_commit": "2026-08-24T14:34:04Z",
             "owner": "united-manufacturing-hub",
             "repo": "united-manufacturing-hub",
             "stars": 393
@@ -2353,7 +2353,7 @@
             "archived": false,
             "id": 1279260938,
             "language": "Go",
-            "last_commit": "2026-08-24T09:42:23Z",
+            "last_commit": "2026-08-24T14:18:53Z",
             "owner": "devicechain-io",
             "repo": "devicechain",
             "stars": 3
@@ -2395,7 +2395,7 @@
             "archived": false,
             "id": 1243243191,
             "language": "TypeScript",
-            "last_commit": "2026-07-29T13:12:24Z",
+            "last_commit": "2026-08-24T14:30:27Z",
             "owner": "ForestHubAI",
             "repo": "edge-agents",
             "stars": 98
@@ -2734,7 +2734,7 @@
             "archived": false,
             "id": 715547,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T13:41:17Z",
+            "last_commit": "2026-08-24T14:24:03Z",
             "owner": "highcharts",
             "repo": "highcharts",
             "stars": 12479
@@ -2818,7 +2818,7 @@
             "last_commit": "2024-02-06T11:08:38Z",
             "owner": "pulp-platform",
             "repo": "pulpino",
-            "stars": 1060
+            "stars": 1061
           }
         },
         {
@@ -3765,7 +3765,7 @@
                 "last_commit": "2026-08-20T18:55:15Z",
                 "owner": "Mbed-TLS",
                 "repo": "mbedtls",
-                "stars": 6903
+                "stars": 6904
               }
             },
             {
@@ -3850,7 +3850,7 @@
                 "archived": false,
                 "id": 53614190,
                 "language": "C",
-                "last_commit": "2026-08-24T13:50:36Z",
+                "last_commit": "2026-08-24T14:30:46Z",
                 "owner": "eclipse-mosquitto",
                 "repo": "mosquitto",
                 "stars": 11152
@@ -5008,7 +5008,7 @@
                 "last_commit": "2026-08-24T13:43:04Z",
                 "owner": "servo",
                 "repo": "servo",
-                "stars": 37783
+                "stars": 37784
               }
             },
             {
@@ -5572,7 +5572,7 @@
             "last_commit": "2026-08-24T13:50:26Z",
             "owner": "netdata",
             "repo": "netdata",
-            "stars": 80275
+            "stars": 80276
           }
         },
         {
@@ -5584,10 +5584,10 @@
             "archived": false,
             "id": 1548202,
             "language": "PHP",
-            "last_commit": "2026-08-24T13:51:04Z",
+            "last_commit": "2026-08-24T14:12:19Z",
             "owner": "matomo-org",
             "repo": "matomo",
-            "stars": 21801
+            "stars": 21802
           }
         },
         {
@@ -5661,7 +5661,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:54:38.884Z",
+    "last_updated": "2026-08-24T14:34:58.206Z",
     "original_repository": "phodal/awesome-iot",
     "original_repository_id": 42395733,
     "original_repository_sha": "aaf6866c043b2b0af0f009d3b7f4ca714489bd4a",
