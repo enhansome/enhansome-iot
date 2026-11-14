@@ -4,7 +4,7 @@ A curated list of IoT. Everyone can contribute here!
 
 Simliar Projects
 
-* [Awesome IoT](https://github.com/HQarroum/awesome-iot) ⭐ 4,561 | 🐛 8 | 📅 2026-11-10 - A curated list of awesome Internet of Things projects and resources.
+* [Awesome IoT](https://github.com/HQarroum/awesome-iot) ⭐ 4,563 | 🐛 8 | 📅 2026-11-14 - A curated list of awesome Internet of Things projects and resources.
 * [Awesome Android Things](https://github.com/amitshekhariitbhu/awesome-android-things) ⭐ 1,008 | 🐛 6 | 🌐 Java | 📅 2024-07-20 - A curated list of awesome Android Things tutorials, libraries and much more at one place
 * [Awesome OpenIoT](https://github.com/Agile-IoT/awesome-open-iot) ⭐ 711 | 🐛 8 | 📅 2023-12-21 - A curated list of awesome open source IoT frameworks, libraries and software.
 * [Awesome Azure IoT](https://github.com/formulahendry/awesome-azure-iot) ⭐ 145 | 🐛 0 | 📅 2018-05-15 - A curated list of awesome Azure Internet of Things projects and resources.
@@ -70,9 +70,9 @@ Simliar Projects
 
 ## Framework
 
-* **[Serverless ★ 46932 ⧗ 0](https://github.com/serverless/serverless) ⭐ 46,931 | 🐛 1,208 | 🌐 JavaScript | 📅 2026-11-13** - Serverless is the application framework for building web, mobile and IoT applications exclusively on Amazon Web Services' Lambda and API Gateway.
-* **[ESP-IDF ★ 19466 ⧗ 0](https://github.com/espressif/esp-idf) ⭐ 19,504 | 🐛 1,828 | 🌐 C | 📅 2026-11-13** - The official framework from Espressif to build Wi-Fi, BLE, and BT apps with ESP32.
-* **[johnny-five ★ 13408 ⧗ 0](https://github.com/rwaldron/johnny-five) ⭐ 13,408 | 🐛 64 | 🌐 JavaScript | 📅 2023-10-24** - JavaScript Robotics and IoT programming framework, developed at Bocoup, Firmata Protocol.
+* **[Serverless ★ 46932 ⧗ 0](https://github.com/serverless/serverless) ⭐ 46,932 | 🐛 1,208 | 🌐 JavaScript | 📅 2026-11-13** - Serverless is the application framework for building web, mobile and IoT applications exclusively on Amazon Web Services' Lambda and API Gateway.
+* **[ESP-IDF ★ 19466 ⧗ 0](https://github.com/espressif/esp-idf) ⭐ 19,509 | 🐛 1,838 | 🌐 C | 📅 2026-11-14** - The official framework from Espressif to build Wi-Fi, BLE, and BT apps with ESP32.
+* **[johnny-five ★ 13408 ⧗ 0](https://github.com/rwaldron/johnny-five) ⭐ 13,409 | 🐛 64 | 🌐 JavaScript | 📅 2023-10-24** - JavaScript Robotics and IoT programming framework, developed at Bocoup, Firmata Protocol.
 * **[GoBot ★ 9494 ⧗ 1](https://github.com/hybridgroup/gobot) ⭐ 9,499 | 🐛 101 | 🌐 Go | 📅 2026-01-07** - Golang framework for robotics, physical computing, and the Internet of Things.
 * **[Cylon ★ 4208 ⧗ 0](https://github.com/hybridgroup/cylon) ⭐ 4,208 | 🐛 47 | 🌐 JavaScript | 📅 2020-10-02** - JavaScript framework for robotics, physical computing, and the Internet of Things.
 * **[.NET Core IoT ★ 2418 ⧗ 292](https://github.com/dotnet/iot) ⭐ 2,417 | 🐛 87 | 🌐 C# | 📅 2026-11-13** - A set of libraries to interact with sensors, displays and input devices from .NET Core framework.
@@ -83,12 +83,12 @@ Simliar Projects
 * [Epoc.js ★ 786 ⧗ 0](https://github.com/charliegerard/Epoc.js) ⭐ 787 | 🐛 10 | 🌐 C | 📅 2020-12-12 - This framework provides an interface to access data from the Emotiv EPOC brain sensor using Node.js.
 * [rpi-gpio.js ★ 659 ⧗ 5](https://github.com/JamesBarwell/rpi-gpio.js) ⭐ 660 | 🐛 21 | 🌐 JavaScript | 📅 2025-11-03 - Control Raspberry Pi GPIO pins with node.js.
 * [Kura ★ 584 ⧗ 1](https://github.com/eclipse/kura) ⭐ 585 | 🐛 42 | 🌐 Java | 📅 2026-11-13 - an open-source framework for development of IoT applications
-* [Freedomotic ★ 428 ⧗ 4](https://github.com/freedomotic/freedomotic) ⭐ 429 | 🐛 89 | 🌐 Java | 📅 2023-07-07 - is an open source, flexible, secure Internet of Things (IoT) application framework, useful to build and manage modern smart spaces.
+* [Freedomotic ★ 428 ⧗ 4](https://github.com/freedomotic/freedomotic) ⭐ 430 | 🐛 89 | 🌐 Java | 📅 2023-07-07 - is an open source, flexible, secure Internet of Things (IoT) application framework, useful to build and manage modern smart spaces.
 * [WTX](https://github.com/c410-f3r/wtx) ⭐ 407 | 🐛 5 | 🌐 Rust | 📅 2026-11-13 - A framework for web-oriented applications
-* **[AREG SDK ★ 368 ⧗ 0](https://github.com/aregtech/areg-sdk) ⭐ 369 | 🐛 18 | 🌐 C++ | 📅 2026-11-13** - AREG SDK is a developer-friendly, an interface-centric real-time asynchronous communication engine to enable distributed- and [mist-computing](https://csrc.nist.gov/publications/detail/sp/500-325/final), where connected Things interact and provide services, as if they act like thin distributed servers.
+* **[AREG SDK ★ 368 ⧗ 0](https://github.com/aregtech/areg-sdk) ⭐ 369 | 🐛 20 | 🌐 C++ | 📅 2026-11-14** - AREG SDK is a developer-friendly, an interface-centric real-time asynchronous communication engine to enable distributed- and [mist-computing](https://csrc.nist.gov/publications/detail/sp/500-325/final), where connected Things interact and provide services, as if they act like thin distributed servers.
 * [IoT 433 MHz ★ 344 ⧗ 11](https://github.com/roccomuso/iot-433mhz) ⭐ 344 | 🐛 19 | 🌐 JavaScript | 📅 2026-07-27 - IoT System to control 433 MHz RC power sockets, PIR, Door Sensors and much more.
 * [Pingo ★ 259 ⧗ 0](https://github.com/pingo-io/pingo-py) ⭐ 259 | 🐛 27 | 🌐 Python | 📅 2017-07-12 - Generic API for controlling boards with programmable IO pins.
-* [Jumpstarter ★ 234 ⧗ 0](https://github.com/jumpstarter-dev/jumpstarter) ⭐ 234 | 🐛 70 | 🌐 Python | 📅 2026-11-13 - Open source hardware-in-the-loop testing framework for automated testing on real and virtual IoT hardware with CI/CD integration.
+* [Jumpstarter ★ 234 ⧗ 0](https://github.com/jumpstarter-dev/jumpstarter) ⭐ 234 | 🐛 69 | 🌐 Python | 📅 2026-11-14 - Open source hardware-in-the-loop testing framework for automated testing on real and virtual IoT hardware with CI/CD integration.
 * [SensorBee ★ 231 ⧗ 33](https://github.com/sensorbee/sensorbee) ⭐ 231 | 🐛 39 | 🌐 Go | 📅 2019-11-04 - Lightweight stream processing engine for IoT
 * [PolyMCU ★ 207 ⧗ 2](https://github.com/labapart/polymcu) ⭐ 207 | 🐛 5 | 🌐 C | 📅 2017-06-30 - has been designed from the beginning to be as flexible as possible: host OS independent, support any toolchain, any RTOS, any micro-controller vendor SDK.
 * [Simgrid ★ 201 ⧗ 53](https://github.com/simgrid/simgrid) ⭐ 201 | 🐛 16 | 🌐 C++ | 📅 2026-11-10 -  is a scientific instrument to study the behavior of large-scale distributed systems such as Grids, Clouds, HPC or P2P systems.
@@ -105,9 +105,9 @@ Simliar Projects
 
 ### SDK
 
-* **[ESP8266 Arduino Core ★ 16711 ⧗ 0](https://github.com/esp8266/Arduino) ⭐ 16,717 | 🐛 410 | 🌐 C++ | 📅 2026-11-07** - Arduino core for ESP8266 WiFi chip.
+* **[ESP8266 Arduino Core ★ 16711 ⧗ 0](https://github.com/esp8266/Arduino) ⭐ 16,718 | 🐛 411 | 🌐 C++ | 📅 2026-11-14** - Arduino core for ESP8266 WiFi chip.
 
-* [Armbian build SDK ★ 5520](https://github.com/armbian/build) ⭐ 5,537 | 🐛 107 | 🌐 Shell | 📅 2026-11-13 - for creating customized kernel and Debian based userspace for popular development boards.
+* [Armbian build SDK ★ 5520](https://github.com/armbian/build) ⭐ 5,539 | 🐛 115 | 🌐 Shell | 📅 2026-11-14 - for creating customized kernel and Debian based userspace for popular development boards.
 
 * [Electron ★ 89 ⧗ 16](https://github.com/spark/electron) ⭐ 89 | 🐛 8 | 📅 2019-05-27 - The Electron is a tiny cellular development kit based around U-Blox's SARA U-series (3G) or G-series (2G) cellular modem module and a STM32F205 ARM Cortex M3 microcontroller.
 
@@ -115,7 +115,7 @@ Simliar Projects
 
 ### Arduino
 
-* **[ArduinoJson ★ 7243 ⧗ 0](https://github.com/bblanchon/ArduinoJson) ⭐ 7,244 | 🐛 17 | 🌐 C++ | 📅 2026-11-13** - An elegant and efficient JSON library for embedded systems.
+* **[ArduinoJson ★ 7243 ⧗ 0](https://github.com/bblanchon/ArduinoJson) ⭐ 7,244 | 🐛 16 | 🌐 C++ | 📅 2026-11-13** - An elegant and efficient JSON library for embedded systems.
 * [WiringPi ★ 3351 ⧗ 11](https://github.com/WiringPi/WiringPi) ⭐ 3,351 | 🐛 45 | 🌐 C | 📅 2026-09-02 - Gordon's Arduino wiring-like WiringPi Library for the Raspberry Pi.
 * [PJON ★ 2835 ⧗ 4](https://github.com/gioblu/PJON) ⭐ 2,835 | 🐛 60 | 🌐 C++ | 📅 2025-11-21 - Digital communication framework for Arduino and IOT.
 * [Servomotor](https://github.com/tomrodinger/Servomotor_Arduino_Library) ⭐ 0 | 🐛 0 | 🌐 C++ | 📅 2026-11-12 - Arduino library for integrated closed-loop NEMA 17 servomotors that share one RS-485 bus.
@@ -124,13 +124,13 @@ Simliar Projects
 ### Low Level
 
 * **[libui ★ 10890 ⧗ 1](https://github.com/andlabs/libui) ⭐ 10,892 | 🐛 250 | 🌐 C | 📅 2024-05-29** - Simple and portable (but not inflexible) GUI library in C that uses the native GUI technologies of each platform it supports.
-* [LK ★ 3704 ⧗ 0](https://github.com/littlekernel/lk) ⭐ 3,704 | 🐛 93 | 🌐 C | 📅 2026-11-13 - The LK embedded kernel. An SMP-aware kernel designed for small systems.
+* [LK ★ 3704 ⧗ 0](https://github.com/littlekernel/lk) ⭐ 3,705 | 🐛 93 | 🌐 C | 📅 2026-11-14 - The LK embedded kernel. An SMP-aware kernel designed for small systems.
 * [inih ★ 3066 ⧗ 3](https://github.com/benhoyt/inih) ⭐ 3,068 | 🐛 0 | 🌐 C++ | 📅 2026-11-01 - is a simple .INI file parser written in C.
 * **[nexmon ★ 2917 ⧗ 2](https://github.com/seemoo-lab/nexmon) ⭐ 2,918 | 🐛 347 | 🌐 C | 📅 2026-09-24** -  is our C-based firmware patching framework for Broadcom/Cypress WiFi chips.
 * **[simbody ★ 2569 ⧗ 0](https://github.com/simbody/simbody) ⭐ 2,572 | 🐛 141 | 🌐 C++ | 📅 2026-11-06** - High-performance C++ multibody dynamics/physics library for simulating articulated biomechanical and mechanical systems like vehicles, robots, and the human skeleton.
 * [Ladon ★ 2458 ⧗ 2](https://github.com/ory-am/ladon) ⭐ 2,457 | 🐛 2 | 🌐 Go | 📅 2026-09-30 - is a library written in Go for access control policies, similar to Role Based Access Control or Access Control Lists.
-* [MCUBoot ★ 2190 ⧗ 3](https://github.com/runtimeco/mcuboot) ⭐ 2,195 | 🐛 119 | 🌐 C | 📅 2026-11-13 - is a secure bootloader for 32-bit MCUs.
-* [btstack ★ 2155 ⧗ 1](https://github.com/bluekitchen/btstack) ⭐ 2,158 | 🐛 74 | 🌐 C | 📅 2026-11-13 - Dual-mode Bluetooth stack, with small memory footprint.
+* [MCUBoot ★ 2190 ⧗ 3](https://github.com/runtimeco/mcuboot) ⭐ 2,195 | 🐛 118 | 🌐 C | 📅 2026-11-13 - is a secure bootloader for 32-bit MCUs.
+* [btstack ★ 2155 ⧗ 1](https://github.com/bluekitchen/btstack) ⭐ 2,158 | 🐛 74 | 🌐 C | 📅 2026-11-14 - Dual-mode Bluetooth stack, with small memory footprint.
 * [CocoaMQTT ★ 1754 ⧗ 0](https://github.com/emqtt/CocoaMQTT) ⭐ 1,754 | 🐛 114 | 🌐 Swift | 📅 2026-10-30 - MQTT for iOS and OS X written with Swift.
 * [SPIFFS ★ 1634 ⧗ 0](https://github.com/pellepl/spiffs) ⭐ 1,634 | 🐛 104 | 🌐 C | 📅 2026-07-16 - Wear-leveled SPI flash file system for embedded devices.
 * [SwiftyGPIO ★ 1367 ⧗ 1](https://github.com/uraimo/SwiftyGPIO) ⭐ 1,367 | 🐛 36 | 🌐 Swift | 📅 2024-05-02 - a Swift library to interact with Linux GPIO/SPI on ARM.
@@ -153,36 +153,36 @@ Simliar Projects
 
 ## App
 
-* [MQTTX ★ 5094 ⧗ 0](https://github.com/emqx/MQTTX) ⭐ 5,102 | 🐛 103 | 🌐 TypeScript | 📅 2026-11-13 - MQTTX is a cross-platform MQTT desktop client open sourced by EMQ, which supports macOS, Linux, and Windows. It allows users to quickly and easily test MQTT / MQTTS connections, publish and subscribe to MQTT messages.
+* [MQTTX ★ 5094 ⧗ 0](https://github.com/emqx/MQTTX) ⭐ 5,103 | 🐛 103 | 🌐 TypeScript | 📅 2026-11-13 - MQTTX is a cross-platform MQTT desktop client open sourced by EMQ, which supports macOS, Linux, and Windows. It allows users to quickly and easily test MQTT / MQTTS connections, publish and subscribe to MQTT messages.
 * [PhoneGap NFC ★ 741 ⧗ 2](https://github.com/chariotsolutions/phonegap-nfc) ⭐ 741 | 🐛 93 | 🌐 Java | 📅 2024-08-20 - PhoneGap NFC Plugin
 * [PWAify ★ 439 ⧗ 8](https://github.com/vladikoff/PWAify) ⭐ 439 | 🐛 12 | 🌐 JavaScript | 📅 2020-06-07 - Experimental project to convert your PWA (Progressive Web App) into a cross-platform Electron app. Brings PWAs to your desktop.
 * [Cordova BLE ★ 244 ⧗ 3](https://github.com/evothings/cordova-ble) ⭐ 244 | 🐛 50 | 🌐 JavaScript | 📅 2018-10-11 - Bluetooth Low Energy plugin for Cordova
 * [Cordova MQTT Plugin ★ 85 ⧗ 11](https://github.com/arcoirislabs/cordova-plugin-mqtt) ⭐ 85 | 🐛 25 | 🌐 C | 📅 2019-02-01 - MQTT Cordova Plugin for Apache Cordova
 * [Summon ★ 17 ⧗ 52](https://github.com/lab11/summon) ⭐ 17 | 🐛 11 | 🌐 JavaScript | 📅 2017-05-11 - A platform for mobile devices that provides a convenient and scalable mechanism for IoT device interactivity, enabled by web-based interfaces and driven by the devices themselves.
-* [TopicBench](https://github.com/unipsycho/topicbench) ⭐ 16 | 🐛 0 | 🌐 Rust | 📅 2026-11-13 - Free open-source multi-broker MQTT explorer and monitor desktop client written in Rust.
+* [TopicBench](https://github.com/unipsycho/topicbench) ⭐ 16 | 🐛 1 | 🌐 Rust | 📅 2026-11-14 - Free open-source multi-broker MQTT explorer and monitor desktop client written in Rust.
 * [Theengs App](https://app.theengs.io) Mobile BLE to MQTT and reader application compatible with over 90 Bluetooth sensors.
 
 ## Storage
 
 * [HStreamDB ★ 722](https://github.com/hstreamdb/hstream) ⭐ 723 | 🐛 11 | 🌐 Haskell | 📅 2024-12-26 - The streaming database built for IoT data storage and real-time processing.
 * [ReductStore ★ 377](https://github.com/reductstore/reductstore) ⭐ 378 | 🐛 12 | 🌐 Rust | 📅 2026-11-13 - high-performance blob and time-series storage for industrial IoT, with edge deployment, selective replication, and efficient querying of multimodal data.
-* [AimDB ★ 101](https://github.com/aimdb-dev/aimdb) ⭐ 103 | 🐛 16 | 🌐 Rust | 📅 2026-11-11 - Data ingestion layer for distributed systems with typed contracts, safe schema evolution and one place to see and manage every node, from microcontroller to cloud.
+* [AimDB ★ 101](https://github.com/aimdb-dev/aimdb) ⭐ 103 | 🐛 17 | 🌐 Rust | 📅 2026-11-11 - Data ingestion layer for distributed systems with typed contracts, safe schema evolution and one place to see and manage every node, from microcontroller to cloud.
 * [node-iotdb ★ 47 ⧗ 61](https://github.com/dpjanes/node-iotdb) ⭐ 47 | 🐛 3 | 🌐 JavaScript | 📅 2017-04-15 - Easily control the Internet of Things using Semantics.
 * [IoTDL ★ 16 ⧗ 8](https://github.com/dpjanes/iotdb-iotql) ⭐ 16 | 🐛 0 | 🌐 JavaScript | 📅 2016-11-03 - an SQL-like language for the IoT.
 
 ## Security
 
-* [Scanners-Box ★ 9190 ⧗ 0](https://github.com/We5ter/Scanners-Box) ⭐ 9,205 | 🐛 0 | 📅 2026-11-06 - the toolbox of open source scanners.
+* [Scanners-Box ★ 9190 ⧗ 0](https://github.com/We5ter/Scanners-Box) ⭐ 9,206 | 🐛 0 | 📅 2026-11-06 - the toolbox of open source scanners.
 
 * [IoTSeeker](https://github.com/rapid7/IoTSeeker) ⭐ 802 | 🐛 4 | 🌐 Perl | 📅 2025-02-13 This scanner will scan a network for specific types of IoT devices to detect if they are using the default, factory set credentials.
 
 * [nShield ★ 251 ⧗ 35](https://github.com/fnzv/nShield) ⭐ 252 | 🐛 6 | 🌐 Go | 📅 2021-11-09 - An Easy and Simple Anti-DDoS solution for VPS,Dedicated Servers and IoT devices based on iptables.
 
-* [HookProbe](https://github.com/hookprobe/hookprobe) ⭐ 52 | 🐛 0 | 🌐 C | 📅 2026-11-13 - Edge-first autonomous SOC and AI-native IDS for IoT network security. Runs on Raspberry Pi.
+* [HookProbe](https://github.com/hookprobe/hookprobe) ⭐ 52 | 🐛 1 | 🌐 C | 📅 2026-11-14 - Edge-first autonomous SOC and AI-native IDS for IoT network security. Runs on Raspberry Pi.
 
 * [Trustpoint](https://github.com/Trustpoint-Project/trustpoint) ⭐ 46 | 🐛 28 | 🌐 Python | 📅 2026-11-13 - MIT-licensed, open-source PKI and machine identity management platform for Industrial IoT (IIoT) and OT environments. Automates X.509 certificate enrollment, renewal and revocation, supports CA/RA operation, and integrates industrial devices through EST, CMP, SCEP and OPC UA GDS Push.
 
-* [iotaudit](https://github.com/emirmrkaljevic/iotaudit) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2026-11-13 - Local, consent-first audit of what your own smart home devices send over the network, with a one-page report per device. Passive capture, no telemetry.
+* [iotaudit](https://github.com/emirmrkaljevic/iotaudit) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2026-11-14 - Local, consent-first audit of what your own smart home devices send over the network, with a one-page report per device. Passive capture, no telemetry.
 
 * [data-act-iot-kit](https://github.com/plusultra-tools/data-act-iot-kit) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-05-19 - EU Data Act Art. 4-5 reference implementation. Drop-in user-data-access HTTP endpoint for connected products, with verbatim-cited compliance manifest. Targets the 2026-09-12 access-by-design obligation.
 
@@ -190,29 +190,29 @@ Simliar Projects
 
 ## OS
 
-* [OpenWrt ★ 29146 ⧗ 173](https://github.com/openwrt/openwrt) ⭐ 29,200 | 🐛 4,899 | 🌐 C | 📅 2026-11-13 - OpenWrt is described as a Linux distribution for embedded devices.
+* [OpenWrt ★ 29146 ⧗ 173](https://github.com/openwrt/openwrt) ⭐ 29,207 | 🐛 4,920 | 🌐 C | 📅 2026-11-14 - OpenWrt is described as a Linux distribution for embedded devices.
 
-* [Zephyr ★ 17040 ⧗ 5](https://github.com/zephyrproject-rtos/zephyr) ⭐ 17,076 | 🐛 4,977 | 🌐 C | 📅 2026-11-13 -  is a small, scalable real-time operating system for use on resource-constrained systems supporting multiple architectures.
+* [Zephyr ★ 17040 ⧗ 5](https://github.com/zephyrproject-rtos/zephyr) ⭐ 17,084 | 🐛 4,968 | 🌐 C | 📅 2026-11-14 -  is a small, scalable real-time operating system for use on resource-constrained systems supporting multiple architectures.
 
-* [RT-Thread ★ 12333 ⧗ 0](https://github.com/RT-Thread/rt-thread) ⭐ 12,347 | 🐛 482 | 🌐 C | 📅 2026-11-13 - RT-Thread is an open source real-time operating system for embedded devices from China.
+* [RT-Thread ★ 12333 ⧗ 0](https://github.com/RT-Thread/rt-thread) ⭐ 12,349 | 🐛 486 | 🌐 C | 📅 2026-11-14 - RT-Thread is an open source real-time operating system for embedded devices from China.
 
 * **[NodeOS ★ 7343 ⧗ 0](https://github.com/nodeos/nodeos) ⭐ 7,347 | 🐛 163 | 🌐 Shell | 📅 2023-03-07** - Lightweight operating system using Node.js as userspace.
 
-* [Tock OS ★ 6492 ⧗ 1](https://github.com/helena-project/tock) ⭐ 6,494 | 🐛 227 | 🌐 Rust | 📅 2026-11-13 -  is an operating system designed for running multiple concurrent, mutually distrustful applications on Cortex-M based embedded platforms.
+* [Tock OS ★ 6492 ⧗ 1](https://github.com/helena-project/tock) ⭐ 6,495 | 🐛 229 | 🌐 Rust | 📅 2026-11-14 -  is an operating system designed for running multiple concurrent, mutually distrustful applications on Cortex-M based embedded platforms.
 
-* **[seL4 Microkernel ★ 5867 ⧗ 1](https://github.com/seL4/seL4) ⭐ 5,873 | 🐛 227 | 🌐 C | 📅 2026-11-13** - The world's first operating-system kernel with an end-to-end proof of implementation correctness and security enforcement is available as open source.
+* **[seL4 Microkernel ★ 5867 ⧗ 1](https://github.com/seL4/seL4) ⭐ 5,875 | 🐛 228 | 🌐 C | 📅 2026-11-13** - The world's first operating-system kernel with an end-to-end proof of implementation correctness and security enforcement is available as open source.
 
-* **[RIOT ★ 5836 ⧗ 1](https://github.com/RIOT-OS/RIOT) ⭐ 5,841 | 🐛 918 | 🌐 C | 📅 2026-11-13** - The friendly Operating System for the Internet of Things
+* **[RIOT ★ 5836 ⧗ 1](https://github.com/RIOT-OS/RIOT) ⭐ 5,841 | 🐛 918 | 🌐 C | 📅 2026-11-14** - The friendly Operating System for the Internet of Things
 
 * [Huawei LiteOS ★ 4900 ⧗ 3](https://github.com/LITEOS/LiteOS_Kernel) ⭐ 4,899 | 🐛 51 | 🌐 C | 📅 2022-05-31 - Huawei LiteOS Kernel.
 
-* **[ARM mbed ★ 4882 ⧗ 0](https://github.com/mbedmicro/mbed) ⭐ 4,882 | 🐛 211 | 🌐 C | 📅 2024-10-08** - The ARM® mbed™ IoT Device Platform provides the operating system, cloud services, tools and developer ecosystem to make the creation and deployment of commercial, standards-based IoT solutions possible at scale.
+* **[ARM mbed ★ 4882 ⧗ 0](https://github.com/mbedmicro/mbed) ⭐ 4,883 | 🐛 211 | 🌐 C | 📅 2024-10-08** - The ARM® mbed™ IoT Device Platform provides the operating system, cloud services, tools and developer ecosystem to make the creation and deployment of commercial, standards-based IoT solutions possible at scale.
 
-* **[Contiki ★ 3811 ⧗ 0](https://github.com/contiki-os/contiki) ⭐ 3,811 | 🐛 646 | 🌐 C | 📅 2024-04-06** - The Open Source OS for the Internet of Things
+* **[Contiki ★ 3811 ⧗ 0](https://github.com/contiki-os/contiki) ⭐ 3,812 | 🐛 646 | 🌐 C | 📅 2024-04-06** - The Open Source OS for the Internet of Things
 
 * [Lua-RTOS-ESP32 ★ 1339 ⧗ 2](https://github.com/whitecatboard/Lua-RTOS-ESP32) ⭐ 1,338 | 🐛 42 | 🌐 C | 📅 2026-04-29 - is a real-time operating system designed to run on embedded systems, with minimal requirements of FLASH and RAM memory.
 
-* [Mynewt](https://github.com/apache/mynewt-core) ⭐ 894 | 🐛 100 | 🌐 C | 📅 2026-11-13 is an open-source operating system for tiny embedded devices. Its goal is to make it easy to develop applications for microcontroller environments where power and cost are driving factors.
+* [Mynewt](https://github.com/apache/mynewt-core) ⭐ 894 | 🐛 103 | 🌐 C | 📅 2026-11-14 is an open-source operating system for tiny embedded devices. Its goal is to make it easy to develop applications for microcontroller environments where power and cost are driving factors.
 
 * [f9-kernel ★ 768 ⧗ 4](https://github.com/f9micro/f9-kernel) ⭐ 767 | 🐛 26 | 🌐 C | 📅 2026-03-25 - An efficient and secure microkernel built for ARM Cortex-M cores, inspired by L4
 
@@ -251,13 +251,13 @@ Simliar Projects
 
 ## Platform
 
-* **[Thingsboard ★ 22652 ⧗ 1700](https://github.com/thingsboard/thingsboard) ⭐ 22,674 | 🐛 358 | 🌐 Java | 📅 2026-11-13** - Open-source IoT Platform - Device management, data collection, processing and visualization.
-* **[PlatformIO ★ 9591 ⧗ 0](https://github.com/platformio/platformio) ⭐ 9,601 | 🐛 291 | 🌐 Python | 📅 2026-11-09** - PlatformIO is a cross-platform code builder and the missing library manager.
-* [Fuxa SCADA/HMI/Dashboard ★ 5259 ⧗ 632](https://github.com/frangoteam/FUXA) ⭐ 5,279 | 🐛 407 | 🌐 JavaScript | 📅 2026-11-13 - FUXA is a web-based Process Visualization (SCADA/HMI/Dashboard) software. With FUXA you can create modern process visualizations/dashboards with individual designs for your machines/IOT application with real-time data display. Supports MQTT, OPC-UA, Modbus RTU/TCP, Siemens S7 Protocol, BACnet IP, Ethernet/IP (Allen Bradley), WebAPI
+* **[Thingsboard ★ 22652 ⧗ 1700](https://github.com/thingsboard/thingsboard) ⭐ 22,675 | 🐛 360 | 🌐 Java | 📅 2026-11-14** - Open-source IoT Platform - Device management, data collection, processing and visualization.
+* **[PlatformIO ★ 9591 ⧗ 0](https://github.com/platformio/platformio) ⭐ 9,602 | 🐛 291 | 🌐 Python | 📅 2026-11-09** - PlatformIO is a cross-platform code builder and the missing library manager.
+* [Fuxa SCADA/HMI/Dashboard ★ 5259 ⧗ 632](https://github.com/frangoteam/FUXA) ⭐ 5,280 | 🐛 406 | 🌐 JavaScript | 📅 2026-11-13 - FUXA is a web-based Process Visualization (SCADA/HMI/Dashboard) software. With FUXA you can create modern process visualizations/dashboards with individual designs for your machines/IOT application with real-time data display. Supports MQTT, OPC-UA, Modbus RTU/TCP, Siemens S7 Protocol, BACnet IP, Ethernet/IP (Allen Bradley), WebAPI
 * [Mongoose IoT ★ 2670 ⧗ 0](https://github.com/cesanta/iot) ⭐ 2,670 | 🐛 97 | 🌐 C | 📅 2026-10-14 -  is a full-stack IoT platform including firmware and cloud components available for ESP8266.
-* **[IoT.js ★ 2596 ⧗ 0](https://github.com/Samsung/iotjs) ⭐ 2,596 | 🐛 52 | 🌐 C | 📅 2021-06-18** - Platform for Internet of Things with JavaScript.
+* **[IoT.js ★ 2596 ⧗ 0](https://github.com/Samsung/iotjs) ⭐ 2,595 | 🐛 52 | 🌐 C | 📅 2021-06-18** - Platform for Internet of Things with JavaScript.
 * **[IoT DC3 ★ 1266 ⧗ 0](https://github.com/pnoker/iot-dc3) ⭐ 1,272 | 🐛 42 | 🌐 Java | 📅 2026-11-11** - A fully open-source, distributed industrial IoT platform built on Spring Cloud, evolving for AI scenarios. Enables rapid IoT project development and connected-device management. [(Docs)](https://docs.dc3.site)
-* [HiveMQ ★ 1215 ⧗ 0](https://github.com/hivemq/hivemq-community-edition) ⭐ 1,216 | 🐛 29 | 🌐 Java | 📅 2026-11-13 - is an open source MQTT platform and MQTT broker.
+* [HiveMQ ★ 1215 ⧗ 0](https://github.com/hivemq/hivemq-community-edition) ⭐ 1,216 | 🐛 29 | 🌐 Java | 📅 2026-11-14 - is an open source MQTT platform and MQTT broker.
 * [Lan ★ 565 ⧗ 0](https://github.com/phodal/lan) ⭐ 565 | 🐛 0 | 🌐 JavaScript | 📅 2020-04-28 - Internet of Things Server Layer with CoAP, WebSocket, MQTT, HTTP f
 * [GrovePi ★ 495 ⧗ 0](https://github.com/DexterInd/GrovePi) ⭐ 496 | 🐛 48 | 🌐 Python | 📅 2026-07-09 - is an open source platform for connecting Grove Sensors to the Raspberry Pi.
 * [United Manufacturing Hub ★ 408 ⧗ 0](https://github.com/united-manufacturing-hub/united-manufacturing-hub) ⭐ 409 | 🐛 26 | 🌐 Go | 📅 2026-11-13 - The Open-Source Manufacturing App Platform (combines various open source solutions and packages them in a Helm chart, for example nodered, VerneMQ and timescaleDB)
@@ -269,7 +269,7 @@ Simliar Projects
 * [embARC Open Software Platform (OSP) ★ 80 ⧗ 9](https://github.com/foss-for-synopsys-dwc-arc-processors/embarc_osp) ⭐ 81 | 🐛 24 | 🌐 C | 📅 2026-06-12 - is a software distribution aimed at facilitating the development of embedded systems based on ARCv2 Processors.
 * [flowchain-app ★ 38 ⧗ 50](https://github.com/flowchain/flowchain-app) ⭐ 38 | 🐛 1 | 🌐 JavaScript | 📅 2017-03-06 - A Flowchain plugin that provides the flow-based programming (FBP) engine.
 * [Simple IoT](https://github.com/dingdaoyi/simple-iot) ⭐ 33 | 🐛 0 | 🌐 Java | 📅 2026-08-03 - Single-binary, self-hosted IoT platform built with Spring Boot 4 + Vue 3. Built-in MQTT broker, visual rule engine, hot-loaded Java/JS/Groovy/Lua protocol scripts, InfluxDB 3 time-series storage. One-command deploy on a 2 GB VPS.
-* [DeviceChain](https://github.com/devicechain-io/devicechain) ⭐ 8 | 🐛 14 | 🌐 Go | 📅 2026-11-13 - Apache-2.0 self-hosted IoT platform written in Go and React. Multi-tenant microservices on Kubernetes: MQTT/Sparkplug B/LwM2M ingest, TimescaleDB time-series storage, a CEL-based rule engine with alarms and outbound connectors, versioned dashboards, and GraphQL APIs. [(Docs)](https://docs.devicechain.io)
+* [DeviceChain](https://github.com/devicechain-io/devicechain) ⭐ 8 | 🐛 38 | 🌐 Go | 📅 2026-11-14 - Apache-2.0 self-hosted IoT platform written in Go and React. Multi-tenant microservices on Kubernetes: MQTT/Sparkplug B/LwM2M ingest, TimescaleDB time-series storage, a CEL-based rule engine with alarms and outbound connectors, versioned dashboards, and GraphQL APIs. [(Docs)](https://docs.devicechain.io)
 * [BitSCADA ★ 6 ⧗ 0](https://github.com/larionovavi-stack/bitscada) ⭐ 6 | 🐛 0 | 🌐 HTML | 📅 2026-06-08 - Complete industrial SCADA/HMI system that runs from a single HTML file. Supports IEC 61850 (MMS, GOOSE, SV), OPC UA, Modbus TCP, MQTT. 53 function blocks, 65 graphic elements, Python gateway for real PLC/RTU/IED connections. Zero installation — any browser.
 * [awtSCADA](https://github.com/larionovavi-stack/awtscada) ⭐ 6 | 🐛 0 | 🌐 HTML | 📅 2026-06-08 - Industrial SCADA/HMI system that runs from a single HTML file in any browser. Supports IEC 61850, OPC UA, Modbus TCP. 53 function blocks, 65 graphic elements. No installation required.
 * [\[thing-it-node\] ★ 20 ⧗ 3](https://github.com/marcgille/thing-it-node/) - A device-independent IoT platform including support of complex event processing, storyboards, and a mobile app.
@@ -328,10 +328,11 @@ Simliar Projects
 * [OpenCage](https://opencagedata.com/) - provide a reverse geocoding API based on open data for high volume conversion of device coordinates (lat,lon) into useful location information (address, timezone, etc).
 * [Vedika API](https://vedika.io) - Vedic astrology API with AI chatbot for IoT displays, smart mirrors, and embedded dashboards. Provides birth charts, daily horoscopes, panchang, and muhurta calculations.
 * [Superhighway](https://superhighway.walls.sh/guides/manufacturing-research-agent) - Live web search API for AI agents. Build a Python agent that researches manufacturing markets, IIoT landscapes, OEE benchmarks, and supply chain trends. Pay-per-call with USDC via x402.
+* [MatterCatalog](https://mattercatalog.com/developers) - Free JSON API and read-only MCP server for Matter smart home products, with CSA certificate IDs, certification dates, networks and platforms.
 
 ## Middleware
 
-* **[Kuzzle ★ 1666 ⧗ 0](https://github.com/kuzzleio/kuzzle) ⭐ 1,667 | 🐛 9 | 🌐 TypeScript | 📅 2026-11-13** - An open-source backend with advanced features like real-time pub/sub or geofencing and a multiprotocol interface that supports MQTT, LoRaWAN and more. [(Website)](https://kuzzle.io/solutions/technologies/iot-backend/)
+* **[Kuzzle ★ 1666 ⧗ 0](https://github.com/kuzzleio/kuzzle) ⭐ 1,667 | 🐛 10 | 🌐 TypeScript | 📅 2026-11-14** - An open-source backend with advanced features like real-time pub/sub or geofencing and a multiprotocol interface that supports MQTT, LoRaWAN and more. [(Website)](https://kuzzle.io/solutions/technologies/iot-backend/)
 * [Kaa ★ 1440 ⧗ 0](https://github.com/kaaproject/kaa) ⭐ 1,440 | 🐛 9 | 📅 2024-11-05 - Kaa open-source middleware platform for building, managing, and integrating connected products with the Internet of Everything.
 * [Shifu ★ 1436 ⧗ 0](https://github.com/Edgenesis/shifu) ⭐ 1,436 | 🐛 24 | 🌐 Go | 📅 2026-11-11 - Shifu is a Kubernetes native IoT development framework that supports multi-protocol device access.
 * **[ThingSpeak ★ 1049 ⧗ 0](https://github.com/iobridge/ThingSpeak) ⭐ 1,049 | 🐛 36 | 🌐 Ruby | 📅 2023-09-21** - ThingSpeak is an open source "Internet of Things" application and API to store and retrieve data from things using HTTP over the Internet or via a Local Area Network.\\
@@ -342,7 +343,7 @@ Simliar Projects
 
 Layered architecture of JTAG interface and TAP support
 
-* [Renode ★ 3116 ⧗ 0](https://github.com/renode/renode) ⭐ 3,141 | 🐛 507 | 🌐 RobotFramework | 📅 2026-11-13 - a virtual development tool for multinode embedded networks.
+* [Renode ★ 3116 ⧗ 0](https://github.com/renode/renode) ⭐ 3,145 | 🐛 507 | 🌐 RobotFramework | 📅 2026-11-13 - a virtual development tool for multinode embedded networks.
 * [KinomaJS ★ 445 ⧗ 0](https://github.com/Kinoma/kinomajs) ⭐ 446 | 🐛 9 | 🌐 C | 📅 2023-10-10 - A JavaScript runtime optimized for the applications that power IoT devices.
 * [OpenOCD ★ 133 ⧗ 34](https://github.com/arduino/OpenOCD) ⭐ 133 | 🐛 4 | 🌐 C | 📅 2024-07-17 - OpenOCD provides on-chip programming and debugging support with a layered architecture of JTAG interface and TAP support
 * [IoT Toolkit ★ 64 ⧗ 41](https://github.com/connectIOT/iottoolkit) ⭐ 64 | 🐛 0 | 🌐 Python | 📅 2018-07-06 - Reference implementation of the smart object API
@@ -351,10 +352,10 @@ Layered architecture of JTAG interface and TAP support
 
 ## Data Visualization
 
-* **[D3.JS ★ 113887 ⧗ 0](https://github.com/mbostock/d3) ⭐ 113,914 | 🐛 23 | 🌐 Shell | 📅 2026-11-03** - A JavaScript visualization library for HTML and SVG
-* **[ECharts ★ 67696 ⧗ 0](https://github.com/ecomfe/echarts) ⭐ 67,716 | 🐛 1,480 | 🌐 TypeScript | 📅 2026-10-13** - Echarts is a commercial charting solution originally intended to address the report need of the Company's various business systems.
+* **[D3.JS ★ 113887 ⧗ 0](https://github.com/mbostock/d3) ⭐ 113,919 | 🐛 23 | 🌐 Shell | 📅 2026-11-03** - A JavaScript visualization library for HTML and SVG
+* **[ECharts ★ 67696 ⧗ 0](https://github.com/ecomfe/echarts) ⭐ 67,722 | 🐛 1,479 | 🌐 TypeScript | 📅 2026-10-13** - Echarts is a commercial charting solution originally intended to address the report need of the Company's various business systems.
 * **[HighCharts ★ 12502 ⧗ 0](https://github.com/highslide-software/highcharts.com) ⭐ 12,502 | 🐛 710 | 🌐 TypeScript | 📅 2026-11-13** - Highcharts JS, the JavaScript charting framework
-* **[Freeboard ★ 6500 ⧗ 0](https://github.com/Freeboard/freeboard) ⭐ 6,501 | 🐛 166 | 🌐 JavaScript | 📅 2023-09-23** - A damn-sexy, open source real-time dashboard builder for IOT and other web mashups. A free open-source alternative to Geckoboard.
+* **[Freeboard ★ 6500 ⧗ 0](https://github.com/Freeboard/freeboard) ⭐ 6,500 | 🐛 166 | 🌐 JavaScript | 📅 2023-09-23** - A damn-sexy, open source real-time dashboard builder for IOT and other web mashups. A free open-source alternative to Geckoboard.
 * [Crouton ★ 297 ⧗ 0](https://github.com/edfungus/Crouton) ⭐ 297 | 🐛 24 | 🌐 Python | 📅 2021-06-07 - is a dashboard that lets you visualize and control your IOT devices with minimal setup.
 * [DevicePilot](https://www.devicepilot.com) - Operational analytics for connected devices (includes free-forever tier).
 
@@ -365,7 +366,7 @@ Layered architecture of JTAG interface and TAP support
 * [PULPino ★ 1074 ⧗ 0](https://github.com/pulp-platform/pulpino) ⭐ 1,077 | 🐛 130 | 🌐 C | 📅 2024-02-06 - PULPino is an open-source microcontroller system, based on a small 32-bit RISC-V core developed at ETH Zurich.
 * [ESP8266 Smartwatch ★ 233 ⧗ 0](https://github.com/Jeija/esp8266-smartwatch) ⭐ 233 | 🐛 0 | 🌐 C | 📅 2016-03-11 - ESP8266 DIY WiFi Smartwatch with MPU-9250, RTC, OLED, FT232, ...
 * [AutoPi](https://github.com/autopi-io/autopi-core) ⭐ 191 | 🐛 1 | 🌐 Python | 📅 2026-06-15 - Open-source core software for the AutoPi dongle, a Raspberry Pi-based OBD-II device for vehicle telematics, CAN bus data collection, and automotive IoT applications.
-* [Widora ★ 173 ⧗ 21](https://github.com/widora/openwrt_widora) ⭐ 174 | 🐛 5 | 🌐 C | 📅 2025-09-12 - Widora is open source WiFi development hardware prototype with sound card based on MT7688A running [OpenWrt](https://github.com/openwrt/openwrt) ⭐ 29,200 | 🐛 4,899 | 🌐 C | 📅 2026-11-13.
+* [Widora ★ 173 ⧗ 21](https://github.com/widora/openwrt_widora) ⭐ 174 | 🐛 5 | 🌐 C | 📅 2025-09-12 - Widora is open source WiFi development hardware prototype with sound card based on MT7688A running [OpenWrt](https://github.com/openwrt/openwrt) ⭐ 29,207 | 🐛 4,920 | 🌐 C | 📅 2026-11-14.
 * [Carloop ★ 132 ⧗ 0](https://github.com/carloop/carloop-library) ⭐ 132 | 🐛 3 | 🌐 C++ | 📅 2022-01-20 - Make apps for your car using signals from OBD-II, CAN and GPS. Publish data online using the Particle platform.
 * [Powerduino ★ 79 ⧗ 102](https://github.com/dekuNukem/Powerduino) ⭐ 79 | 🐛 2 | 📅 2014-05-02 - A fully programmable power strip with energy monitoring and wireless connectivity.
 * [Arduino](http://www.arduino.cc/) - open-source electronics platform based on easy-to-use hardware and software.
@@ -383,18 +384,18 @@ Layered architecture of JTAG interface and TAP support
 
 ## Home Automation
 
-* **[Homebridge ★ 25547 ⧗ 0](https://github.com/nfarina/homebridge) ⭐ 25,551 | 🐛 12 | 🌐 TypeScript | 📅 2026-11-08** - Homebridge is a lightweight NodeJS server you can run on your home network that emulates the iOS HomeKit API.
-* [Node-RED](https://github.com/node-red/node-red) ⭐ 23,842 | 🐛 356 | 🌐 JavaScript | 📅 2026-11-13 - Node-RED is a programming tool for wiring together hardware devices, APIs and online services in new and interesting ways.
+* **[Homebridge ★ 25547 ⧗ 0](https://github.com/nfarina/homebridge) ⭐ 25,550 | 🐛 12 | 🌐 TypeScript | 📅 2026-11-14** - Homebridge is a lightweight NodeJS server you can run on your home network that emulates the iOS HomeKit API.
+* [Node-RED](https://github.com/node-red/node-red) ⭐ 23,845 | 🐛 356 | 🌐 JavaScript | 📅 2026-11-13 - Node-RED is a programming tool for wiring together hardware devices, APIs and online services in new and interesting ways.
 * **[Smart Mirror ★ 2821 ⧗ 0](https://github.com/evancohen/smart-mirror) ⭐ 2,820 | 🐛 9 | 🌐 JavaScript | 📅 2026-11-10** - The fairest of them all. A DIY voice controlled smart mirror with IoT integration.
-* **[openHAB ★ 1388 ⧗ 0](https://github.com/openhab/openhab-distro) ⭐ 1,388 | 🐛 74 | 🌐 PowerShell | 📅 2026-11-13** - a vendor and technology agnostic open source automation software for your home.
+* **[openHAB ★ 1388 ⧗ 0](https://github.com/openhab/openhab-distro) ⭐ 1,388 | 🐛 75 | 🌐 PowerShell | 📅 2026-11-13** - a vendor and technology agnostic open source automation software for your home.
 * [Pimatic ★ 598 ⧗ 0](https://github.com/pimatic/pimatic) ⭐ 598 | 🐛 202 | 🌐 CoffeeScript | 📅 2022-10-21 - A home automation server and framework for the raspberry pi running on node.js.
 * [Sonoff-HomeAssistant ★ 353 ⧗ 1](https://github.com/KmanOz/Sonoff-HomeAssistant) ⭐ 352 | 🐛 11 | 🌐 Arduino | 📅 2018-08-11 - is alternative firmware for the brilliant & cheap ($ not quality) range of Sonoff range of ESP-8266 based WiFi controlled switches.
-* [ble-scale-sync](https://github.com/KristianP26/ble-scale-sync) ⭐ 224 | 🐛 9 | 🌐 TypeScript | 📅 2026-11-12 - Cross-platform Node.js service that reads BLE smart scales, calculates body composition, and exports readings to MQTT with Home Assistant auto-discovery, InfluxDB, Garmin Connect, and webhooks.
+* [ble-scale-sync](https://github.com/KristianP26/ble-scale-sync) ⭐ 225 | 🐛 9 | 🌐 TypeScript | 📅 2026-11-12 - Cross-platform Node.js service that reads BLE smart scales, calculates body composition, and exports readings to MQTT with Home Assistant auto-discovery, InfluxDB, Garmin Connect, and webhooks.
 * [home.pi ★ 191 ⧗ 1](https://github.com/denschu/home.pi) ⭐ 191 | 🐛 6 | 🌐 JavaScript | 📅 2015-04-08 - Home Automation with AngularJS and MQTT on a Raspberry Pi
 * [MyController ★ 155 ⧗ 0](https://github.com/mycontroller-org/mycontroller) ⭐ 155 | 🐛 63 | 🌐 Java | 📅 2022-08-04 - is automation controller for home, office or any place.
 * [Vör ★ 47 ⧗ 2](https://github.com/futurice/vor) ⭐ 47 | 🐛 3 | 🌐 Java | 📅 2019-02-20 - is open source software and hardware for turning your open office into an open, real-time map for finding people, open work places and current events.
-* [homebridge-blink-security](https://github.com/BitWise-0x/homebridge-blink-security) ⭐ 16 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-13 - Homebridge plugin for Blink cameras, doorbells, and sirens with live streaming, arm/disarm, and motion detection via Apple HomeKit.
-* [homebridge-smartrent](https://github.com/BitWise-0x/homebridge-smartrent) ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-08 - Homebridge plugin for SmartRent locks, thermostats, leak sensors, and switches with real-time WebSocket updates via Apple HomeKit.
+* [homebridge-blink-security](https://github.com/BitWise-0x/homebridge-blink-security) ⭐ 16 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-14 - Homebridge plugin for Blink cameras, doorbells, and sirens with live streaming, arm/disarm, and motion detection via Apple HomeKit.
+* [homebridge-smartrent](https://github.com/BitWise-0x/homebridge-smartrent) ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-14 - Homebridge plugin for SmartRent locks, thermostats, leak sensors, and switches with real-time WebSocket updates via Apple HomeKit.
 * [ZHAC](https://github.com/zhac-project/zhac-platform) ⭐ 0 | 🐛 0 | 🌐 Just | 📅 2026-09-29 - A dual-chip ESP32-P4 + ESP32-S3 Zigbee home automation controller with a Lua rule engine, local web UI, and MQTT gateway.
 * [Animara Free Sampler](https://github.com/animaraicons/animara-free-sampler) ⭐ 0 | 🐛 0 | 📅 2026-11-06 - MIT licensed animated SVG device icons for Home Assistant dashboards that follow each device's real state (fan spins, kettle boils), installable as a HACS custom repository.
 * [Eclipse SmartHome](http://eclipse.org/smarthome/) - Smart Home adoption will only gain momentum if the different devices can be connected into over-arching use cases, but currently the market for Smart Home systems and IoT gadgets is heavily fragmented.
@@ -409,18 +410,18 @@ Layered architecture of JTAG interface and TAP support
 
 ## Robotics
 
-* **[AirSim ★ 18605 ⧗ 1](https://github.com/Microsoft/AirSim) ⭐ 18,610 | 🐛 781 | 🌐 C++ | 📅 2026-09-15** -  is a simulator for drones (and soon other vehicles) built on Unreal Engine.
-* **[hubot ★ 16796 ⧗ 0](https://github.com/github/hubot) ⭐ 16,799 | 🐛 4 | 🌐 JavaScript | 📅 2026-11-01** - A customizable life embetterment robot.
+* **[AirSim ★ 18605 ⧗ 1](https://github.com/Microsoft/AirSim) ⭐ 18,612 | 🐛 781 | 🌐 C++ | 📅 2026-09-15** -  is a simulator for drones (and soon other vehicles) built on Unreal Engine.
+* **[hubot ★ 16796 ⧗ 0](https://github.com/github/hubot) ⭐ 16,796 | 🐛 4 | 🌐 JavaScript | 📅 2026-11-01** - A customizable life embetterment robot.
 * **[artoo ★ 1540 ⧗ 0](https://github.com/hybridgroup/artoo) ⭐ 1,540 | 🐛 21 | 🌐 Ruby | 📅 2023-12-19** - Ruby framework for robotics and the Internet of Things.
 
 ## Others
 
 for embedded systems (IoT in mind).
 
-* **[Sonoff-Tasmota ★ 24974 ⧗ 0](https://github.com/arendst/Sonoff-Tasmota) ⭐ 24,988 | 🐛 11 | 🌐 C | 📅 2026-11-13** - Provide ESP8266 based itead Sonoff with Web, MQTT and OTA firmware using Arduino IDE.
-* **[Node-RED ★ 23825 ⧗ 0](https://github.com/node-red/node-red) ⭐ 23,842 | 🐛 356 | 🌐 JavaScript | 📅 2026-11-13** - A visual tool for wiring the Internet of Things.
-* **[ESP8266 Deauther ★ 15090 ⧗ 0](https://github.com/spacehuhn/esp8266_deauther) ⭐ 15,102 | 🐛 99 | 🌐 C | 📅 2024-08-14** -  allows you to perform a deauth attack with an ESP8266 against selected networks.
-* [fluent-bit ★ 8185 ⧗ 4](https://github.com/fluent/fluent-bit) ⭐ 8,188 | 🐛 848 | 🌐 C | 📅 2026-11-13 - is a data collector for Linux, Embedded Linux, OSX and BSD family operating systems.
+* **[Sonoff-Tasmota ★ 24974 ⧗ 0](https://github.com/arendst/Sonoff-Tasmota) ⭐ 24,989 | 🐛 12 | 🌐 C | 📅 2026-11-14** - Provide ESP8266 based itead Sonoff with Web, MQTT and OTA firmware using Arduino IDE.
+* **[Node-RED ★ 23825 ⧗ 0](https://github.com/node-red/node-red) ⭐ 23,845 | 🐛 356 | 🌐 JavaScript | 📅 2026-11-13** - A visual tool for wiring the Internet of Things.
+* **[ESP8266 Deauther ★ 15090 ⧗ 0](https://github.com/spacehuhn/esp8266_deauther) ⭐ 15,104 | 🐛 99 | 🌐 C | 📅 2024-08-14** -  allows you to perform a deauth attack with an ESP8266 against selected networks.
+* [fluent-bit ★ 8185 ⧗ 4](https://github.com/fluent/fluent-bit) ⭐ 8,189 | 🐛 850 | 🌐 C | 📅 2026-11-13 - is a data collector for Linux, Embedded Linux, OSX and BSD family operating systems.
 * [RemoteDebug ★ 641 ⧗ 11](https://github.com/JoaoLopesF/RemoteDebug) ⭐ 641 | 🐛 42 | 🌐 C++ | 📅 2023-01-03 - A library to remote debug over telnet connection!
 * [rio ★ 159 ⧗ 0](https://github.com/SolidStateGroup/rio) ⭐ 159 | 🐛 51 | 🌐 C | 📅 2023-01-14 - An open source library allowing you to create an internet connected LED wall
 * [Emul8 ★ 113 ⧗ 71](https://github.com/emul8/emul8) ⭐ 113 | 🐛 2 | 🌐 C# | 📅 2017-11-13 - is an emulator of various embedded systems. With Emul8 you can develop embedded software entirely in a virtual environment that runs within your PC.
@@ -435,10 +436,10 @@ for embedded systems (IoT in mind).
 
 ## Language
 
-* **[MicroPython ★ 22182 ⧗ 0](https://github.com/micropython/micropython) ⭐ 22,195 | 🐛 1,601 | 🌐 C | 📅 2026-11-12** - MicroPython is a lean and fast implementation of the Python 3 programming language that is optimised to run on a microcontroller.
-* **[JerryScript ★ 7419 ⧗ 0](https://github.com/Samsung/jerryscript) ⭐ 7,423 | 🐛 261 | 🌐 C | 📅 2025-10-08** - A JavaScript engine for Internet of Things.
+* **[MicroPython ★ 22182 ⧗ 0](https://github.com/micropython/micropython) ⭐ 22,198 | 🐛 1,605 | 🌐 C | 📅 2026-11-12** - MicroPython is a lean and fast implementation of the Python 3 programming language that is optimised to run on a microcontroller.
+* **[JerryScript ★ 7419 ⧗ 0](https://github.com/Samsung/jerryscript) ⭐ 7,422 | 🐛 261 | 🌐 C | 📅 2025-10-08** - A JavaScript engine for Internet of Things.
 * **[luvit ★ 3974 ⧗ 0](https://github.com/luvit/luvit) ⭐ 3,974 | 🐛 99 | 🌐 Lua | 📅 2026-04-02** - Node.JS for the Lua Inventor.
-* **[Terra ★ 2927 ⧗ 0](https://github.com/zdevito/terra) ⭐ 2,927 | 🐛 101 | 🌐 C++ | 📅 2026-08-19** - is a low-level system programming language that is embedded in and meta-programmed by the Lua programming language.
+* **[Terra ★ 2927 ⧗ 0](https://github.com/zdevito/terra) ⭐ 2,928 | 🐛 101 | 🌐 C++ | 📅 2026-08-19** - is a low-level system programming language that is embedded in and meta-programmed by the Lua programming language.
 * [AtomVM ★ 2271 ⧗ 0](https://github.com/bettio/AtomVM) ⭐ 2,273 | 🐛 204 | 🌐 Erlang | 📅 2026-11-12 - AtomVM is a tiny portable virtual machine that allows Erlang and Elixir code to run on microcontrollers with less than 500KB of RAM such as the ESP32.
 * **[PikaScript ★ 1768 ⧗ 36](https://github.com/pikasTech/pikaScript) ⭐ 1,769 | 🐛 27 | 🌐 C | 📅 2026-09-11** - PikaScript is a extremely lightweight python engine that can run with less than 4KB of RAM such as stm32g030c8 and stm32f103c8. It is zero dependency, zero configuration, easy to deploy and expand.
 * **[V7 ★ 1452 ⧗ 0](https://github.com/cesanta/v7) ⭐ 1,452 | 🐛 51 | 🌐 C | 📅 2020-11-30** - V7 is a JavaScript engine written in C. It makes it possible to program Internet of Things (IoT) devices in JavaScript.
@@ -450,8 +451,8 @@ for embedded systems (IoT in mind).
 
 ### Others
 
-* **[mbed TLS ★ 7057 ⧗ 0](https://github.com/ARMmbed/mbedtls) ⭐ 7,063 | 🐛 1,767 | 🌐 C | 📅 2026-11-13** - An open source, portable, easy to use, readable and flexible SSL library
-* **[UniK ★ 2825 ⧗ 0](https://github.com/emc-advanced-dev/unik) ⭐ 2,826 | 🐛 50 | 🌐 Go | 📅 2023-04-27** -  is a tool for compiling application sources into unikernels (lightweight bootable disk images) rather than binaries.
+* **[mbed TLS ★ 7057 ⧗ 0](https://github.com/ARMmbed/mbedtls) ⭐ 7,062 | 🐛 1,769 | 🌐 C | 📅 2026-11-13** - An open source, portable, easy to use, readable and flexible SSL library
+* **[UniK ★ 2825 ⧗ 0](https://github.com/emc-advanced-dev/unik) ⭐ 2,827 | 🐛 50 | 🌐 Go | 📅 2023-04-27** -  is a tool for compiling application sources into unikernels (lightweight bootable disk images) rather than binaries.
 * **[LittleD ★ 734 ⧗ 3](https://github.com/graemedouglas/LittleD) ⭐ 734 | 🐛 14 | 🌐 C | 📅 2023-10-29** - A relational database for embedded devices and sensors nodes.
 * [K3PO ★ 50 ⧗ 9](https://github.com/k3po/k3po) ⭐ 50 | 🐛 71 | 🌐 Java | 📅 2022-11-16 - is a network driver and language agnostic testing tool.
 
@@ -459,17 +460,17 @@ for embedded systems (IoT in mind).
 
 ### MQTT
 
-* **[EMQX ★ 16890 ⧗ 1800](https://github.com/emqx/emqx) ⭐ 16,914 | 🐛 272 | 🌐 Erlang | 📅 2026-11-13** - An ultra-scalable open-source MQTT broker. Connect 100M+ IoT devices in one single cluster, move and process real-time IoT data with 1M msg/s throughput at 1ms latency.
-* [Mosquitto ★ 11348 ⧗ 0](https://github.com/eclipse/mosquitto) ⭐ 11,364 | 🐛 920 | 🌐 C | 📅 2026-11-06 - An Open Source MQTT v3.1/v3.1.1 Broker.
+* **[EMQX ★ 16890 ⧗ 1800](https://github.com/emqx/emqx) ⭐ 16,915 | 🐛 275 | 🌐 Erlang | 📅 2026-11-14** - An ultra-scalable open-source MQTT broker. Connect 100M+ IoT devices in one single cluster, move and process real-time IoT data with 1M msg/s throughput at 1ms latency.
+* [Mosquitto ★ 11348 ⧗ 0](https://github.com/eclipse/mosquitto) ⭐ 11,366 | 🐛 921 | 🌐 C | 📅 2026-11-06 - An Open Source MQTT v3.1/v3.1.1 Broker.
 * **[MQTT.js ★ 9129 ⧗ 0](https://github.com/mqttjs/MQTT.js) ⭐ 9,131 | 🐛 43 | 🌐 TypeScript | 📅 2026-10-20** - The MQTT client for Node.js and the browser.
-* **[PubSub Client ★ 4013 ⧗ 0](https://github.com/knolleary/pubsubclient) ⭐ 4,013 | 🐛 569 | 🌐 C++ | 📅 2026-06-10** - A client library for the Arduino Ethernet Shield that provides support for MQTT.
-* **[VerneMQ ★ 3648 ⧗ 1](https://github.com/erlio/vernemq) ⭐ 3,653 | 🐛 175 | 🌐 Erlang | 📅 2026-11-10** - A distributed MQTT message broker.
-* [NanoMQ](https://github.com/nanomq/nanomq) ⭐ 2,661 | 🐛 56 | 🌐 C | 📅 2026-11-10 - A light-weight and Blazing-fast MQTT Broker for IoT Edge platform.
-* [moquette ★ 2462 ⧗ 2](https://github.com/moquette-io/moquette) ⭐ 2,463 | 🐛 144 | 🌐 Java | 📅 2026-11-11 - Java MQTT lightweight broker.
+* **[PubSub Client ★ 4013 ⧗ 0](https://github.com/knolleary/pubsubclient) ⭐ 4,014 | 🐛 569 | 🌐 C++ | 📅 2026-06-10** - A client library for the Arduino Ethernet Shield that provides support for MQTT.
+* **[VerneMQ ★ 3648 ⧗ 1](https://github.com/erlio/vernemq) ⭐ 3,654 | 🐛 175 | 🌐 Erlang | 📅 2026-11-10** - A distributed MQTT message broker.
+* [NanoMQ](https://github.com/nanomq/nanomq) ⭐ 2,662 | 🐛 56 | 🌐 C | 📅 2026-11-10 - A light-weight and Blazing-fast MQTT Broker for IoT Edge platform.
+* [moquette ★ 2462 ⧗ 2](https://github.com/moquette-io/moquette) ⭐ 2,463 | 🐛 145 | 🌐 Java | 📅 2026-11-11 - Java MQTT lightweight broker.
 * [Eclipse Paho MQTT C client ★ 2389 ⧗ 3](https://github.com/eclipse/paho.mqtt.c) ⭐ 2,392 | 🐛 239 | 🌐 C | 📅 2026-11-06 - This code builds libraries which enable applications to connect to an MQTT broker to publish messages, and to subscribe to topics and receive published messages.
 * [Homie for ESP8266 ★ 1374 ⧗ 1](https://github.com/marvinroger/homie-esp8266) ⭐ 1,374 | 🐛 89 | 🌐 HTML | 📅 2026-03-06 - An Arduino for ESP8266 implementation of Homie, an MQTT convention for the IoT.
 * [Java mqtt-client ★ 1276 ⧗ 2](https://github.com/fusesource/mqtt-client) ⭐ 1,275 | 🐛 91 | 🌐 Java | 📅 2021-09-15 - A Java MQTT Client.
-* **[Eclipse Paho JavaScript client ★ 1184 ⧗ 1](https://github.com/eclipse/paho.mqtt.javascript) ⭐ 1,184 | 🐛 101 | 🌐 JavaScript | 📅 2024-05-14** - The Paho JavaScript Client is an MQTT browser-based client library written in Javascript that uses WebSockets to connect to an MQTT Broker.
+* **[Eclipse Paho JavaScript client ★ 1184 ⧗ 1](https://github.com/eclipse/paho.mqtt.javascript) ⭐ 1,183 | 🐛 101 | 🌐 JavaScript | 📅 2024-05-14** - The Paho JavaScript Client is an MQTT browser-based client library written in Javascript that uses WebSockets to connect to an MQTT Broker.
 * [ESP8266 MQTT ★ 1170 ⧗ 0](https://github.com/tuanpmt/esp_mqtt) ⭐ 1,171 | 🐛 41 | 🌐 C | 📅 2020-12-22 - MQTT client library for ESP8266 Soc
 * [arduino-mqtt ★ 1094 ⧗ 6](https://github.com/256dpi/arduino-mqtt) ⭐ 1,094 | 🐛 24 | 🌐 C | 📅 2026-11-05 - MQTT library for Arduino based on the Eclipse Paho projects.
 * [MQTT-C ★ 902 ⧗ 2](https://github.com/LiamBindle/MQTT-C) ⭐ 904 | 🐛 15 | 🌐 C | 📅 2026-10-29 - A portable MQTT C client for embedded systems and PCs alike.
@@ -527,12 +528,12 @@ for embedded systems (IoT in mind).
 
 ### OpenThread
 
-* **[OpenThread ★ 4064 ⧗ 2](https://github.com/openthread/openthread) ⭐ 4,066 | 🐛 110 | 🌐 C++ | 📅 2026-11-13** - OpenThread is an open-source implementation of the Thread networking protocol.
-* [OpenThread Border Router ★ 584 ⧗ 0](https://github.com/openthread/borderrouter) ⭐ 585 | 🐛 38 | 🌐 C++ | 📅 2026-11-13 - An open source border router, built to work with OpenThread.
+* **[OpenThread ★ 4064 ⧗ 2](https://github.com/openthread/openthread) ⭐ 4,066 | 🐛 104 | 🌐 C++ | 📅 2026-11-14** - OpenThread is an open-source implementation of the Thread networking protocol.
+* [OpenThread Border Router ★ 584 ⧗ 0](https://github.com/openthread/borderrouter) ⭐ 585 | 🐛 39 | 🌐 C++ | 📅 2026-11-13 - An open source border router, built to work with OpenThread.
 
 ### Others
 
-* **[libimobiledevice ★ 8331 ⧗ 0](https://github.com/libimobiledevice/libimobiledevice) ⭐ 8,346 | 🐛 851 | 🌐 C | 📅 2026-06-10** - A library to communicate with services of Apple iOS devices using native protocols.
+* **[libimobiledevice ★ 8331 ⧗ 0](https://github.com/libimobiledevice/libimobiledevice) ⭐ 8,347 | 🐛 851 | 🌐 C | 📅 2026-06-10** - A library to communicate with services of Apple iOS devices using native protocols.
 * **[MeQ ★ 3962 ⧗ 1](https://github.com/teamsaas/meq) ⭐ 3,962 | 🐛 46 | 🌐 TypeScript | 📅 2025-03-04** - is a real-time communication service for connecting online devices.
 * [Anjay ★ 220 ⧗ 23](https://github.com/AVSystem/Anjay) ⭐ 220 | 🐛 0 | 🌐 C | 📅 2026-10-08 - is a C library that aims to be the reference implementation of the OMA Lightweight Machine-to-Machine (LwM2M) device management protocol.
 
@@ -567,12 +568,12 @@ for embedded systems (IoT in mind).
 
 ### Others
 
-* **[Servo ★ 38437 ⧗ 0](https://github.com/servo/servo) ⭐ 38,503 | 🐛 3,160 | 🌐 Rust | 📅 2026-11-13** -  is a prototype web browser engine written in the Rust language.
-* **[Drake ★ 4247 ⧗ 0](https://github.com/RobotLocomotion/drake) ⭐ 4,255 | 🐛 634 | 🌐 C++ | 📅 2026-11-13** -  is a toolbox maintained by the Robot Locomotion Group at the MIT Computer Science and Artificial Intelligence Lab (CSAIL).
-* [ShellHub ★ 2248 ⧗ 70](https://github.com/shellhub-io/shellhub) ⭐ 2,249 | 🐛 20 | 🌐 Go | 📅 2026-11-13 - Centralized SSH for the the edge and cloud computing.
-* [The Things Stack ★ 1176 ⧗ 4](https://github.com/TheThingsNetwork/lorawan-stack) ⭐ 1,178 | 🐛 189 | 🌐 Go | 📅 2026-11-13 - The Things Stack, an open source LoRaWAN network server created by The Things Industries. Creators of the global open crowdsourced Internet of Things data network The Things Network.
+* **[Servo ★ 38437 ⧗ 0](https://github.com/servo/servo) ⭐ 38,512 | 🐛 3,151 | 🌐 Rust | 📅 2026-11-14** -  is a prototype web browser engine written in the Rust language.
+* **[Drake ★ 4247 ⧗ 0](https://github.com/RobotLocomotion/drake) ⭐ 4,256 | 🐛 632 | 🌐 C++ | 📅 2026-11-14** -  is a toolbox maintained by the Robot Locomotion Group at the MIT Computer Science and Artificial Intelligence Lab (CSAIL).
+* [ShellHub ★ 2248 ⧗ 70](https://github.com/shellhub-io/shellhub) ⭐ 2,249 | 🐛 28 | 🌐 Go | 📅 2026-11-14 - Centralized SSH for the the edge and cloud computing.
+* [The Things Stack ★ 1176 ⧗ 4](https://github.com/TheThingsNetwork/lorawan-stack) ⭐ 1,178 | 🐛 194 | 🌐 Go | 📅 2026-11-14 - The Things Stack, an open source LoRaWAN network server created by The Things Industries. Creators of the global open crowdsourced Internet of Things data network The Things Network.
 * **[meshblu ★ 811 ⧗ 0](https://github.com/octoblu/meshblu) ⭐ 811 | 🐛 20 | 🌐 CoffeeScript | 📅 2023-01-23** - Machine-to-machine instant messaging platform for the internet of things.
-* [Balena ★ 744 ⧗ 3](https://github.com/resin-os/balena) ⭐ 744 | 🐛 95 | 🌐 Go | 📅 2026-11-05 -  is a new container engine purpose-built for embedded and IoT use cases and compatible with Docker containers.
+* [Balena ★ 744 ⧗ 3](https://github.com/resin-os/balena) ⭐ 745 | 🐛 95 | 🌐 Go | 📅 2026-11-05 -  is a new container engine purpose-built for embedded and IoT use cases and compatible with Docker containers.
 * [WAMP Protocol ★ 490 ⧗ 1](https://github.com/wamp-proto/wamp-proto) ⭐ 490 | 🐛 131 | 🌐 Python | 📅 2026-11-12 - The Web Application Messaging Protocol The Web Application Messaging Protocol.
 * [The Things Network Arduino Library ★ 209 ⧗ 9](https://github.com/TheThingsNetwork/arduino-device-lib) ⭐ 209 | 🐛 21 | 🌐 C | 📅 2026-11-12 - is an Arduino Library for Arduino devices like The Things Uno and Node to communicate via The Things Network.
 * [React Native ESP8266 Smartconfig ★ 131 ⧗ 5](https://github.com/tuanpmt/react-native-smartconfig) ⭐ 131 | 🐛 11 | 🌐 Objective-C | 📅 2019-06-15 - a react-native module for ESP8266 ESPTOUCH Smart config.
@@ -588,10 +589,10 @@ for embedded systems (IoT in mind).
 ## Tools
 
 * [Smart.js ★ 2670 ⧗ 0](https://github.com/cesanta/smart.js) ⭐ 2,670 | 🐛 97 | 🌐 C | 📅 2026-10-14 - Embedded Javascript engine for C/C++ with networking, file, database and device interfaces
-* [LibreDB Studio](https://github.com/libredb/libredb-studio) ⭐ 1,328 | 🐛 16 | 🌐 TypeScript | 📅 2026-11-13 - Open source web database IDE that also reads industrial and IoT sources, read-only: MQTT 5.0 topic trees, Sparkplug B namespaces, OPC UA address spaces, Modbus TCP registers, MTConnect agents and SNMP devices.
-* [SolidPing](https://github.com/fclairamb/solidping) ⭐ 33 | 🐛 3 | 🌐 Go | 📅 2026-11-13 - Self-hosted uptime monitoring with an MQTT check that runs a publish/subscribe round trip on a broker and alerts on failure.
+* [LibreDB Studio](https://github.com/libredb/libredb-studio) ⭐ 1,328 | 🐛 20 | 🌐 TypeScript | 📅 2026-11-14 - Open source web database IDE that also reads industrial and IoT sources, read-only: MQTT 5.0 topic trees, Sparkplug B namespaces, OPC UA address spaces, Modbus TCP registers, MTConnect agents and SNMP devices.
+* [SolidPing](https://github.com/fclairamb/solidping) ⭐ 33 | 🐛 4 | 🌐 Go | 📅 2026-11-14 - Self-hosted uptime monitoring with an MQTT check that runs a publish/subscribe round trip on a broker and alerts on failure.
 * [Mer](https://github.com/iotmertech/iot-data-generator) ⭐ 17 | 🐛 0 | 🌐 Rust | 📅 2026-07-03 - A developer-friendly IoT test data generator CLI written in Rust. Supports MQTT, HTTP, and TCP for simulating realistic sensor payloads.
-* [usb-rea](https://github.com/emirmrkaljevic/usb-rea) ⭐ 17 | 🐛 0 | 🌐 Python | 📅 2026-11-13 - Infers a USB gadget's protocol from a vendor-app capture and generates a pyusb driver.
+* [usb-rea](https://github.com/emirmrkaljevic/usb-rea) ⭐ 17 | 🐛 0 | 🌐 Python | 📅 2026-11-14 - Infers a USB gadget's protocol from a vendor-app capture and generates a pyusb driver.
 * [MQTT File Uploader](https://github.com/volkanalkilic/Mqtt-File-Uploader) ⭐ 9 | 🐛 0 | 🌐 C# | 📅 2023-02-13 - MQTT File Uploader is a simple Cross-platform .NET Core application that watches local directories for changes and uploads new or modified files to an MQTT broker.
 * [Paho](http://www.eclipse.org/paho) - The Paho project provides open-source client implementations of MQTT and MQTT-SN messaging protocols aimed at new, existing, and emerging applications for Machine‑to‑Machine (M-2-M) and Internet of Things (IoT).
 * **[Toit ★ 961 ⧗ 67](https://toit.io/)** - The Toit platform combines the functionality of serving your devices in a robust, resilient way, and letting you have control over your devices and your data, as well as ready-to-use over-the-air firmware and application updates on your network-connected embedded devices.
@@ -669,11 +670,11 @@ for embedded systems (IoT in mind).
 ### Related Resources Projects
 
 * **[awesome-mqtt ★ 2412 ⧗ 0](https://github.com/hobbyquaker/awesome-mqtt) ⭐ 2,413 | 🐛 0 | 📅 2026-11-13** - Curated list of MQTT related stuff.
-* [Awesome Reverse-Engineered](https://github.com/alexgaoth/awesome-reverse-engineered) ⭐ 1,374 | 🐛 9 | 🌐 Python | 📅 2026-11-13 - Index of 16,800+ open-source projects built by reverse engineering closed devices, protocols, apps and file formats, with 3,000+ device and IoT entries and 800+ that mention Home Assistant.
+* [Awesome Reverse-Engineered](https://github.com/alexgaoth/awesome-reverse-engineered) ⭐ 1,403 | 🐛 9 | 🌐 Python | 📅 2026-11-13 - Index of 16,800+ open-source projects built by reverse engineering closed devices, protocols, apps and file formats, with 3,000+ device and IoT entries and 800+ that mention Home Assistant.
 
 ### Tutorial
 
-* [100 Days 100 IoT Projects](https://github.com/kritishmohapatra/100_Days_100_IoT_Projects) ⭐ 1,581 | 🐛 0 | 🌐 Python | 📅 2026-07-17 - A 100-day challenge building real-world IoT projects with MicroPython on ESP32, ESP8266 and Raspberry Pi Pico 2W. Step-by-step documented with wiring diagrams and code for beginners.
+* [100 Days 100 IoT Projects](https://github.com/kritishmohapatra/100_Days_100_IoT_Projects) ⭐ 1,583 | 🐛 0 | 🌐 Python | 📅 2026-07-17 - A 100-day challenge building real-world IoT projects with MicroPython on ESP32, ESP8266 and Raspberry Pi Pico 2W. Step-by-step documented with wiring diagrams and code for beginners.
 * [Arduino, RaspberryPi and MQTT](https://github.com/sofianinho/training/tree/master/iot) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2020-12-17 - Builds an end to end IoT application that ties together several aspects of the MQTT protocol.
 * [TutorialSearch](https://tutorialsearch.io/browse/programming-languages/iot-systems) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 * [Unpacking the Internet of Things](https://www.udemy.com/unpacking-the-internet-of-things/learn/v4/overview) - Shows use cases to help to identify possible potential for enterprise specific products.
@@ -681,26 +682,26 @@ for embedded systems (IoT in mind).
 ## Edge
 
 * [Project Flogo ★ 2487 ⧗ 0](https://github.com/TIBCOSoftware/flogo) ⭐ 2,487 | 🐛 128 | 🌐 CSS | 📅 2024-04-24 - is an Open Source Framework for IoT Edge Apps & Integration.
-* **[AREG SDK ★ 368 ⧗ 0](https://github.com/aregtech/areg-sdk) ⭐ 369 | 🐛 18 | 🌐 C++ | 📅 2026-11-13** - AREG SDK is a developer-friendly, an interface-centric real-time asynchronous communication engine to enable distributed- and [mist-computing](https://csrc.nist.gov/publications/detail/sp/500-325/final), where connected Things interact and provide services, as if they act like thin distributed servers.
-* [Eden ★ 55 ⧗ 0](https://github.com/lf-edge/eden) ⭐ 55 | 🐛 50 | 🌐 Go | 📅 2026-10-19 - CLI for Edge Virtualization Engine (EVE)
+* **[AREG SDK ★ 368 ⧗ 0](https://github.com/aregtech/areg-sdk) ⭐ 369 | 🐛 20 | 🌐 C++ | 📅 2026-11-14** - AREG SDK is a developer-friendly, an interface-centric real-time asynchronous communication engine to enable distributed- and [mist-computing](https://csrc.nist.gov/publications/detail/sp/500-325/final), where connected Things interact and provide services, as if they act like thin distributed servers.
+* [Eden ★ 55 ⧗ 0](https://github.com/lf-edge/eden) ⭐ 55 | 🐛 51 | 🌐 Go | 📅 2026-11-14 - CLI for Edge Virtualization Engine (EVE)
 
 ## AI
 
 * [TensorFlow for Raspberry Pi ★ 2257 ⧗ 0](https://github.com/samjabrahams/tensorflow-on-raspberry-pi) ⭐ 2,257 | 🐛 75 | 🌐 Python | 📅 2018-11-08 - step-by-step instructions for installing TensorFlow from source using Bazel (which is also compiled from-scratch), as well as pre-built TensorFlow binaries.
-* [CosmoEdge](https://github.com/cosmo-wander-ai/cosmo-edge) ⭐ 2,093 | 🐛 13 | 🌐 C | 📅 2026-11-13 - Production-oriented C++ edge video AI engine that connects RTSP streams to CV/VLM inference, visual orchestration, alarms, and MQTT/webhook events on Sophon and Rockchip NPUs.
-* [platformio.mcp](https://github.com/powerdragonfire/platformio.mcp) ⭐ 10 | 🐛 3 | 🌐 Python | 📅 2026-11-11 - MCP server that gives AI coding agents hands on embedded hardware through PlatformIO: build, flash, serial monitor, crash backtrace decoding, firmware size reports, unit tests and static analysis for ESP32, Arduino, STM32, RP2040 and other boards.
-* [Genesis 2](https://github.com/larionovavi-stack/genesis2-cascade-moe) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-11-13 - Cascade MoE neural network for IoT edge deployments. CPU-only inference (18ms), no GPU required, patented architecture with zero catastrophic forgetting.
+* [CosmoEdge](https://github.com/cosmo-wander-ai/cosmo-edge) ⭐ 2,094 | 🐛 13 | 🌐 C | 📅 2026-11-13 - Production-oriented C++ edge video AI engine that connects RTSP streams to CV/VLM inference, visual orchestration, alarms, and MQTT/webhook events on Sophon and Rockchip NPUs.
+* [platformio.mcp](https://github.com/powerdragonfire/platformio.mcp) ⭐ 10 | 🐛 5 | 🌐 Python | 📅 2026-11-14 - MCP server that gives AI coding agents hands on embedded hardware through PlatformIO: build, flash, serial monitor, crash backtrace decoding, firmware size reports, unit tests and static analysis for ESP32, Arduino, STM32, RP2040 and other boards.
+* [Genesis 2](https://github.com/larionovavi-stack/genesis2-cascade-moe) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-11-14 - Cascade MoE neural network for IoT edge deployments. CPU-only inference (18ms), no GPU required, patented architecture with zero catastrophic forgetting.
 
 ## Analytics
 
-* **[NetData ★ 81318 ⧗ 0](https://github.com/firehol/netdata) ⭐ 81,399 | 🐛 446 | 🌐 Go | 📅 2026-11-13** - is a system for distributed real-time performance and health monitoring.
-* **[Piwik ★ 22014 ⧗ 0](https://github.com/piwik/piwik) ⭐ 22,028 | 🐛 2,556 | 🌐 PHP | 📅 2026-11-13** - Piwik is the leading Free/Libre open analytics platform.
+* **[NetData ★ 81318 ⧗ 0](https://github.com/firehol/netdata) ⭐ 81,417 | 🐛 449 | 🌐 Go | 📅 2026-11-14** - is a system for distributed real-time performance and health monitoring.
+* **[Piwik ★ 22014 ⧗ 0](https://github.com/piwik/piwik) ⭐ 22,026 | 🐛 2,556 | 🌐 PHP | 📅 2026-11-13** - Piwik is the leading Free/Libre open analytics platform.
 * [Samsara ★ 148 ⧗ 1](https://github.com/samsara/samsara) ⭐ 148 | 🐛 40 | 🌐 Clojure | 📅 2023-05-22 - is a real-time analytics platform.
 * [Bistro ★ 8 ⧗ 0](https://github.com/asavinov/bistro) ⭐ 8 | 🐛 1 | 🌐 Java | 📅 2018-09-07 - light-weight batch and stream analytics engine which radically changes the way data is processed. Bistro relies on a novel column-oriented data model and is intended for IoT applications and data processing at the edge.
 
 ## Digital Twins
 
-* [Eclipse Ditto](https://github.com/eclipse/ditto) ⭐ 951 | 🐛 103 | 🌐 Java | 📅 2026-11-13 is the open-source project of Eclipse IoT that provides a ready-to-use functionality to manage the state of Digital Twins.
+* [Eclipse Ditto](https://github.com/eclipse/ditto) ⭐ 952 | 🐛 105 | 🌐 Java | 📅 2026-11-13 is the open-source project of Eclipse IoT that provides a ready-to-use functionality to manage the state of Digital Twins.
 
 ## Others
 
@@ -712,4 +713,4 @@ Your contributions are always welcome! Please submit a pull request or create an
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
