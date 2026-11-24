@@ -16,7 +16,7 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-11-21T06:24:53Z",
-            "open_issues": 12,
+            "open_issues": 13,
             "owner": "HQarroum",
             "repo": "awesome-iot",
             "stars": 4577,
@@ -119,7 +119,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "Serverless ★ 46933 ⧗ 0",
+          "title": "Serverless ★ 46932 ⧗ 0",
           "description": "Serverless is the application framework for building web, mobile and IoT applications exclusively on Amazon Web Services' Lambda and API Gateway.",
           "children": [],
           "repo_info": {
@@ -129,11 +129,11 @@
             "id": 34302698,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-20T17:40:41Z",
-            "open_issues": 1212,
+            "last_commit": "2026-11-23T17:59:59Z",
+            "open_issues": 1210,
             "owner": "serverless",
             "repo": "serverless",
-            "stars": 46932,
+            "stars": 46933,
             "topics": [
               "aws",
               "aws-dynamodb",
@@ -150,7 +150,7 @@
         },
         {
           "node_type": "item",
-          "title": "ESP-IDF ★ 19515 ⧗ 0",
+          "title": "ESP-IDF ★ 19573 ⧗ 0",
           "description": "The official framework from Espressif to build Wi-Fi, BLE, and BT apps with ESP32.",
           "children": [],
           "repo_info": {
@@ -160,18 +160,18 @@
             "id": 65899476,
             "language": "C",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-22T16:26:16Z",
-            "open_issues": 1868,
+            "last_commit": "2026-11-23T20:54:29Z",
+            "open_issues": 1871,
             "owner": "espressif",
             "repo": "esp-idf",
-            "stars": 19571,
+            "stars": 19575,
             "topics": []
           },
           "first_seen": "2026-08-28T23:07:25.899Z"
         },
         {
           "node_type": "item",
-          "title": "johnny-five ★ 13409 ⧗ 0",
+          "title": "johnny-five ★ 13408 ⧗ 0",
           "description": "JavaScript Robotics and IoT programming framework, developed at Bocoup, Firmata Protocol.",
           "children": [],
           "repo_info": {
@@ -185,7 +185,7 @@
             "open_issues": 64,
             "owner": "rwaldron",
             "repo": "johnny-five",
-            "stars": 13407,
+            "stars": 13408,
             "topics": [
               "1-wire",
               "adc",
@@ -213,7 +213,7 @@
         },
         {
           "node_type": "item",
-          "title": "GoBot ★ 9498 ⧗ 1",
+          "title": "GoBot ★ 9502 ⧗ 1",
           "description": "Golang framework for robotics, physical computing, and the Internet of Things.",
           "children": [],
           "repo_info": {
@@ -292,7 +292,7 @@
         },
         {
           "node_type": "item",
-          "title": ".NET Core IoT ★ 2417 ⧗ 292",
+          "title": ".NET Core IoT ★ 2416 ⧗ 292",
           "description": "A set of libraries to interact with sensors, displays and input devices from .NET Core framework. This libraries allows to work with the GPIO port for various boards like Raspberry Pi and Hummingboard and contains a growing set of community-maintained device bindings for IoT components.",
           "children": [],
           "repo_info": {
@@ -302,18 +302,18 @@
             "id": 151623607,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-19T18:05:03Z",
-            "open_issues": 85,
+            "last_commit": "2026-11-23T05:04:08Z",
+            "open_issues": 87,
             "owner": "dotnet",
             "repo": "iot",
-            "stars": 2417,
+            "stars": 2416,
             "topics": []
           },
           "first_seen": "2026-08-28T23:07:25.899Z"
         },
         {
           "node_type": "item",
-          "title": "Thingsboard IoT Gateway ★ 2206 ⧗ 246",
+          "title": "Thingsboard IoT Gateway ★ 2205 ⧗ 246",
           "description": "open-source IoT Gateway - integrates devices connected to legacy and third-party systems with Thingsboard IoT Platform using OPC-UA and MQTT protocols.",
           "children": [],
           "repo_info": {
@@ -324,10 +324,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-20T08:56:23Z",
-            "open_issues": 71,
+            "open_issues": 72,
             "owner": "thingsboard",
             "repo": "thingsboard-gateway",
-            "stars": 2204,
+            "stars": 2206,
             "topics": [
               "aws",
               "aws-iot",
@@ -352,7 +352,7 @@
         },
         {
           "node_type": "item",
-          "title": "Sming ★ 1573 ⧗ 0",
+          "title": "Sming ★ 1572 ⧗ 0",
           "description": "Sming is an asynchronous C/C++ framework with superb performance and multiple network features. Sming is open source and is tailored towards embedded devices.",
           "children": [],
           "repo_info": {
@@ -363,7 +363,7 @@
             "language": "C++",
             "license": "LGPL-3.0",
             "last_commit": "2026-11-12T12:32:46Z",
-            "open_issues": 86,
+            "open_issues": 85,
             "owner": "SmingHub",
             "repo": "Sming",
             "stars": 1572,
@@ -392,7 +392,7 @@
         },
         {
           "node_type": "item",
-          "title": "Lelylan ★ 1523 ⧗ 1",
+          "title": "Lelylan ★ 1521 ⧗ 1",
           "description": "OpenSSL Source Lightweight Microservices Architecture for the Internet of Things. For developers.",
           "children": [],
           "repo_info": {
@@ -406,7 +406,7 @@
             "open_issues": 21,
             "owner": "lelylan",
             "repo": "lelylan",
-            "stars": 1521,
+            "stars": 1520,
             "topics": [
               "architecture",
               "docker",
@@ -420,7 +420,7 @@
         },
         {
           "node_type": "item",
-          "title": "Epoc.js ★ 786 ⧗ 0",
+          "title": "Epoc.js ★ 787 ⧗ 0",
           "description": "This framework provides an interface to access data from the Emotiv EPOC brain sensor using Node.js.",
           "children": [],
           "repo_info": {
@@ -446,7 +446,7 @@
         },
         {
           "node_type": "item",
-          "title": "rpi-gpio.js ★ 660 ⧗ 5",
+          "title": "rpi-gpio.js ★ 659 ⧗ 5",
           "description": "Control Raspberry Pi GPIO pins with node.js.",
           "children": [],
           "repo_info": {
@@ -482,8 +482,8 @@
             "id": 15237269,
             "language": "Java",
             "license": "EPL-2.0",
-            "last_commit": "2026-11-20T17:00:54Z",
-            "open_issues": 44,
+            "last_commit": "2026-11-23T16:54:15Z",
+            "open_issues": 47,
             "owner": "eclipse-kura",
             "repo": "kura",
             "stars": 585,
@@ -499,7 +499,7 @@
         },
         {
           "node_type": "item",
-          "title": "Freedomotic ★ 430 ⧗ 4",
+          "title": "Freedomotic ★ 428 ⧗ 4",
           "description": "is an open source, flexible, secure Internet of Things (IoT) application framework, useful to build and manage modern smart spaces.",
           "children": [],
           "repo_info": {
@@ -578,7 +578,7 @@
         },
         {
           "node_type": "item",
-          "title": "AREG SDK ★ 369 ⧗ 0",
+          "title": "AREG SDK ★ 368 ⧗ 0",
           "description": "AREG SDK is a developer-friendly, an interface-centric real-time asynchronous communication engine to enable distributed- and mist-computing, where connected Things interact and provide services, as if they act like thin distributed servers.",
           "children": [],
           "repo_info": {
@@ -588,7 +588,7 @@
             "id": 392349560,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-22T20:11:40Z",
+            "last_commit": "2026-11-22T20:50:02Z",
             "open_issues": 16,
             "owner": "aregtech",
             "repo": "areg-sdk",
@@ -676,7 +676,7 @@
         },
         {
           "node_type": "item",
-          "title": "Jumpstarter ★ 234 ⧗ 0",
+          "title": "Jumpstarter ★ 236 ⧗ 0",
           "description": "Open source hardware-in-the-loop testing framework for automated testing on real and virtual IoT hardware with CI/CD integration.",
           "children": [],
           "repo_info": {
@@ -686,8 +686,8 @@
             "id": 1138269866,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-22T18:40:36Z",
-            "open_issues": 70,
+            "last_commit": "2026-11-24T00:12:18Z",
+            "open_issues": 68,
             "owner": "jumpstarter-dev",
             "repo": "jumpstarter",
             "stars": 236,
@@ -779,7 +779,7 @@
             "id": 3389701,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-22T19:39:03Z",
+            "last_commit": "2026-11-24T00:18:01Z",
             "open_issues": 17,
             "owner": "simgrid",
             "repo": "simgrid",
@@ -978,7 +978,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "ESP8266 Arduino Core ★ 16723 ⧗ 0",
+              "title": "ESP8266 Arduino Core ★ 16722 ⧗ 0",
               "description": "Arduino core for ESP8266 WiFi chip.",
               "children": [],
               "repo_info": {
@@ -999,7 +999,7 @@
             },
             {
               "node_type": "item",
-              "title": "Armbian build SDK ★ 5539",
+              "title": "Armbian build SDK ★ 5553",
               "description": "for creating customized kernel and Debian based userspace for popular development boards.",
               "children": [],
               "repo_info": {
@@ -1009,11 +1009,11 @@
                 "id": 24905898,
                 "language": "Shell",
                 "license": "GPL-2.0",
-                "last_commit": "2026-11-22T18:34:08Z",
-                "open_issues": 101,
+                "last_commit": "2026-11-23T23:47:08Z",
+                "open_issues": 103,
                 "owner": "armbian",
                 "repo": "build",
-                "stars": 5553,
+                "stars": 5554,
                 "topics": [
                   "aarch64",
                   "arm",
@@ -1089,7 +1089,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "ArduinoJson ★ 7246 ⧗ 0",
+              "title": "ArduinoJson ★ 7245 ⧗ 0",
               "description": "An elegant and efficient JSON library for embedded systems.",
               "children": [],
               "repo_info": {
@@ -1103,7 +1103,7 @@
                 "open_issues": 16,
                 "owner": "bblanchon",
                 "repo": "ArduinoJson",
-                "stars": 7245,
+                "stars": 7246,
                 "topics": [
                   "arduino",
                   "arduino-library",
@@ -1119,7 +1119,7 @@
             },
             {
               "node_type": "item",
-              "title": "WiringPi ★ 3351 ⧗ 11",
+              "title": "WiringPi ★ 3352 ⧗ 11",
               "description": "Gordon's Arduino wiring-like WiringPi Library for the Raspberry Pi.",
               "children": [],
               "repo_info": {
@@ -1140,7 +1140,7 @@
             },
             {
               "node_type": "item",
-              "title": "PJON ★ 2835 ⧗ 4",
+              "title": "PJON ★ 2834 ⧗ 4",
               "description": "Digital communication framework for Arduino and IOT.",
               "children": [],
               "repo_info": {
@@ -1205,7 +1205,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "libui ★ 10892 ⧗ 1",
+              "title": "libui ★ 10895 ⧗ 1",
               "description": "Simple and portable (but not inflexible) GUI library in C that uses the native GUI technologies of each platform it supports.",
               "children": [],
               "repo_info": {
@@ -1219,14 +1219,14 @@
                 "open_issues": 250,
                 "owner": "andlabs",
                 "repo": "libui",
-                "stars": 10895,
+                "stars": 10894,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:07:25.899Z"
             },
             {
               "node_type": "item",
-              "title": "LK ★ 3706 ⧗ 0",
+              "title": "LK ★ 3708 ⧗ 0",
               "description": "The LK embedded kernel. An SMP-aware kernel designed for small systems.",
               "children": [],
               "repo_info": {
@@ -1240,7 +1240,7 @@
                 "open_issues": 93,
                 "owner": "littlekernel",
                 "repo": "lk",
-                "stars": 3708,
+                "stars": 3707,
                 "topics": [
                   "operating-system",
                   "rtos"
@@ -1250,7 +1250,7 @@
             },
             {
               "node_type": "item",
-              "title": "inih ★ 3068 ⧗ 3",
+              "title": "inih ★ 3070 ⧗ 3",
               "description": "is a simple .INI file parser written in C.",
               "children": [],
               "repo_info": {
@@ -1264,7 +1264,7 @@
                 "open_issues": 0,
                 "owner": "benhoyt",
                 "repo": "inih",
-                "stars": 3070,
+                "stars": 3069,
                 "topics": [
                   "c",
                   "configparser",
@@ -1277,7 +1277,7 @@
             },
             {
               "node_type": "item",
-              "title": "nexmon ★ 2919 ⧗ 2",
+              "title": "nexmon ★ 2925 ⧗ 2",
               "description": "is our C-based firmware patching framework for Broadcom/Cypress WiFi chips.",
               "children": [],
               "repo_info": {
@@ -1291,7 +1291,7 @@
                 "open_issues": 348,
                 "owner": "seemoo-lab",
                 "repo": "nexmon",
-                "stars": 2925,
+                "stars": 2926,
                 "topics": [
                   "broadcom",
                   "firmware",
@@ -1306,7 +1306,7 @@
             },
             {
               "node_type": "item",
-              "title": "simbody ★ 2572 ⧗ 0",
+              "title": "simbody ★ 2573 ⧗ 0",
               "description": "High-performance C++ multibody dynamics/physics library for simulating articulated biomechanical and mechanical systems like vehicles, robots, and the human skeleton.",
               "children": [],
               "repo_info": {
@@ -1316,8 +1316,8 @@
                 "id": 12146969,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-20T18:27:33Z",
-                "open_issues": 141,
+                "last_commit": "2026-11-23T22:57:14Z",
+                "open_issues": 142,
                 "owner": "simbody",
                 "repo": "simbody",
                 "stars": 2573,
@@ -1333,7 +1333,7 @@
             },
             {
               "node_type": "item",
-              "title": "Ladon ★ 2457 ⧗ 2",
+              "title": "Ladon ★ 2456 ⧗ 2",
               "description": "is a library written in Go for access control policies, similar to Role Based Access Control or Access Control Lists.",
               "children": [],
               "repo_info": {
@@ -1354,7 +1354,7 @@
             },
             {
               "node_type": "item",
-              "title": "MCUBoot ★ 2196 ⧗ 3",
+              "title": "MCUBoot ★ 2204 ⧗ 3",
               "description": "is a secure bootloader for 32-bit MCUs.",
               "children": [],
               "repo_info": {
@@ -1364,11 +1364,11 @@
                 "id": 76305806,
                 "language": "C",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-19T09:44:48Z",
-                "open_issues": 132,
+                "last_commit": "2026-11-23T11:57:25Z",
+                "open_issues": 130,
                 "owner": "mcu-tools",
                 "repo": "mcuboot",
-                "stars": 2203,
+                "stars": 2206,
                 "topics": [
                   "bootloader",
                   "device",
@@ -1383,7 +1383,7 @@
             },
             {
               "node_type": "item",
-              "title": "btstack ★ 2158 ⧗ 1",
+              "title": "btstack ★ 2162 ⧗ 1",
               "description": "Dual-mode Bluetooth stack, with small memory footprint.",
               "children": [],
               "repo_info": {
@@ -1393,7 +1393,7 @@
                 "id": 32987989,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-21T18:28:39Z",
+                "last_commit": "2026-11-23T14:32:34Z",
                 "open_issues": 74,
                 "owner": "bluekitchen",
                 "repo": "btstack",
@@ -1435,7 +1435,7 @@
             },
             {
               "node_type": "item",
-              "title": "SPIFFS ★ 1635 ⧗ 0",
+              "title": "SPIFFS ★ 1637 ⧗ 0",
               "description": "Wear-leveled SPI flash file system for embedded devices.",
               "children": [],
               "repo_info": {
@@ -1466,7 +1466,7 @@
             },
             {
               "node_type": "item",
-              "title": "SwiftyGPIO ★ 1368 ⧗ 1",
+              "title": "SwiftyGPIO ★ 1369 ⧗ 1",
               "description": "a Swift library to interact with Linux GPIO/SPI on ARM.",
               "children": [],
               "repo_info": {
@@ -1566,7 +1566,7 @@
             },
             {
               "node_type": "item",
-              "title": "XiPKI ★ 613 ⧗ 10",
+              "title": "XiPKI ★ 611 ⧗ 10",
               "description": "eXtensible sImple Public Key Infrastructure consists of CA and OCSP responder.",
               "children": [],
               "repo_info": {
@@ -1576,7 +1576,7 @@
                 "id": 18249859,
                 "language": "Java",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-22T18:55:59Z",
+                "last_commit": "2026-11-22T21:07:26Z",
                 "open_issues": 1,
                 "owner": "xipki",
                 "repo": "xipki",
@@ -1736,7 +1736,7 @@
             },
             {
               "node_type": "item",
-              "title": "Pelion Device Management Client ★ 44 ⧗ 41",
+              "title": "Pelion Device Management Client ★ 45 ⧗ 41",
               "description": "a library that connects devices to Pelion Device Management service and to Mbed-enabled cloud services from our partners.",
               "children": [],
               "repo_info": {
@@ -1892,7 +1892,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "MQTTX ★ 5103 ⧗ 0",
+          "title": "MQTTX ★ 5110 ⧗ 0",
           "description": "MQTTX is a cross-platform MQTT desktop client open sourced by EMQ, which supports macOS, Linux, and Windows. It allows users to quickly and easily test MQTT / MQTTS connections, publish and subscribe to MQTT messages.",
           "children": [],
           "repo_info": {
@@ -1902,11 +1902,11 @@
             "id": 188391577,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-20T02:07:52Z",
-            "open_issues": 91,
+            "last_commit": "2026-11-23T10:16:37Z",
+            "open_issues": 92,
             "owner": "emqx",
             "repo": "MQTTX",
-            "stars": 5109,
+            "stars": 5110,
             "topics": [
               "cli",
               "cross-platform",
@@ -1934,7 +1934,7 @@
         },
         {
           "node_type": "item",
-          "title": "PhoneGap NFC ★ 742 ⧗ 2",
+          "title": "PhoneGap NFC ★ 741 ⧗ 2",
           "description": "PhoneGap NFC Plugin",
           "children": [],
           "repo_info": {
@@ -2129,7 +2129,7 @@
         },
         {
           "node_type": "item",
-          "title": "ReductStore ★ 378",
+          "title": "ReductStore ★ 380",
           "description": "high-performance blob and time-series storage for industrial IoT, with edge deployment, selective replication, and efficient querying of multimodal data.",
           "children": [],
           "repo_info": {
@@ -2139,8 +2139,8 @@
             "id": 441299511,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-22T05:13:21Z",
-            "open_issues": 19,
+            "last_commit": "2026-11-23T15:17:14Z",
+            "open_issues": 9,
             "owner": "reductstore",
             "repo": "reductstore",
             "stars": 380,
@@ -2176,7 +2176,7 @@
             "id": 1061389408,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-22T09:44:30Z",
+            "last_commit": "2026-11-23T18:20:20Z",
             "open_issues": 21,
             "owner": "aimdb-dev",
             "repo": "aimdb",
@@ -2247,7 +2247,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "Scanners-Box ★ 9206 ⧗ 0",
+          "title": "Scanners-Box ★ 9226 ⧗ 0",
           "description": "the toolbox of open source scanners.",
           "children": [],
           "repo_info": {
@@ -2261,7 +2261,7 @@
             "open_issues": 0,
             "owner": "We5ter",
             "repo": "Scanners-Box",
-            "stars": 9225,
+            "stars": 9226,
             "topics": [
               "agent-security-audit",
               "agent-security-benchmark",
@@ -2310,7 +2310,7 @@
         },
         {
           "node_type": "item",
-          "title": "nShield ★ 252 ⧗ 35",
+          "title": "nShield ★ 251 ⧗ 35",
           "description": "An Easy and Simple Anti-DDoS solution for VPS,Dedicated Servers and IoT devices based on iptables.",
           "children": [],
           "repo_info": {
@@ -2350,8 +2350,8 @@
             "id": 818765314,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-22T20:21:37Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-23T22:07:13Z",
+            "open_issues": 10,
             "owner": "hookprobe",
             "repo": "hookprobe",
             "stars": 54,
@@ -2392,8 +2392,8 @@
             "id": 751901471,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-22T20:16:42Z",
-            "open_issues": 29,
+            "last_commit": "2026-11-23T21:28:24Z",
+            "open_issues": 26,
             "owner": "Trustpoint-Project",
             "repo": "trustpoint",
             "stars": 45,
@@ -2426,7 +2426,7 @@
             "id": 1422481997,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-22T17:32:32Z",
+            "last_commit": "2026-11-23T17:25:48Z",
             "open_issues": 0,
             "owner": "emirmrkaljevic",
             "repo": "iotaudit",
@@ -2481,7 +2481,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "OpenWrt ★ 29220 ⧗ 173",
+          "title": "OpenWrt ★ 29320 ⧗ 173",
           "description": "OpenWrt is described as a Linux distribution for embedded devices.",
           "children": [],
           "repo_info": {
@@ -2491,18 +2491,18 @@
             "id": 45821540,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-22T17:16:06Z",
-            "open_issues": 4953,
+            "last_commit": "2026-11-23T22:23:11Z",
+            "open_issues": 4965,
             "owner": "openwrt",
             "repo": "openwrt",
-            "stars": 29315,
+            "stars": 29330,
             "topics": []
           },
           "first_seen": "2026-08-28T23:07:25.899Z"
         },
         {
           "node_type": "item",
-          "title": "Zephyr ★ 17099 ⧗ 5",
+          "title": "Zephyr ★ 17167 ⧗ 5",
           "description": "is a small, scalable real-time operating system for use on resource-constrained systems supporting multiple architectures.",
           "children": [],
           "repo_info": {
@@ -2512,11 +2512,11 @@
             "id": 59771425,
             "language": "C",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-22T19:49:27Z",
-            "open_issues": 5064,
+            "last_commit": "2026-11-23T23:51:12Z",
+            "open_issues": 5048,
             "owner": "zephyrproject-rtos",
             "repo": "zephyr",
-            "stars": 17166,
+            "stars": 17175,
             "topics": [
               "bluetooth",
               "bluetooth-le",
@@ -2536,7 +2536,7 @@
         },
         {
           "node_type": "item",
-          "title": "RT-Thread ★ 12351 ⧗ 0",
+          "title": "RT-Thread ★ 12363 ⧗ 0",
           "description": "RT-Thread is an open source real-time operating system for embedded devices from China.",
           "children": [],
           "repo_info": {
@@ -2546,11 +2546,11 @@
             "id": 7408108,
             "language": "C",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-18T09:29:09Z",
-            "open_issues": 493,
+            "last_commit": "2026-11-23T06:56:13Z",
+            "open_issues": 483,
             "owner": "RT-Thread",
             "repo": "rt-thread",
-            "stars": 12363,
+            "stars": 12364,
             "topics": [
               "aiot",
               "arm",
@@ -2571,7 +2571,7 @@
         },
         {
           "node_type": "item",
-          "title": "NodeOS ★ 7348 ⧗ 0",
+          "title": "NodeOS ★ 7347 ⧗ 0",
           "description": "Lightweight operating system using Node.js as userspace.",
           "children": [],
           "repo_info": {
@@ -2585,7 +2585,7 @@
             "open_issues": 163,
             "owner": "NodeOS",
             "repo": "NodeOS",
-            "stars": 7347,
+            "stars": 7345,
             "topics": [
               "javascript",
               "nodejs",
@@ -2597,7 +2597,7 @@
         },
         {
           "node_type": "item",
-          "title": "Tock OS ★ 6500 ⧗ 1",
+          "title": "Tock OS ★ 6514 ⧗ 1",
           "description": "is an operating system designed for running multiple concurrent, mutually distrustful applications on Cortex-M based embedded platforms.",
           "children": [],
           "repo_info": {
@@ -2607,11 +2607,11 @@
             "id": 36428094,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-20T21:50:14Z",
-            "open_issues": 218,
+            "last_commit": "2026-11-23T21:59:45Z",
+            "open_issues": 216,
             "owner": "tock",
             "repo": "tock",
-            "stars": 6513,
+            "stars": 6515,
             "topics": [
               "arm",
               "cortex-m",
@@ -2631,7 +2631,7 @@
         },
         {
           "node_type": "item",
-          "title": "seL4 Microkernel ★ 5880 ⧗ 1",
+          "title": "seL4 Microkernel ★ 5920 ⧗ 1",
           "description": "The world's first operating-system kernel with an end-to-end proof of implementation correctness and security enforcement is available as open source.",
           "children": [],
           "repo_info": {
@@ -2641,8 +2641,8 @@
             "id": 21977691,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-18T04:46:52Z",
-            "open_issues": 229,
+            "last_commit": "2026-11-23T11:36:08Z",
+            "open_issues": 230,
             "owner": "seL4",
             "repo": "seL4",
             "stars": 5920,
@@ -2657,7 +2657,7 @@
         },
         {
           "node_type": "item",
-          "title": "RIOT ★ 5841 ⧗ 1",
+          "title": "RIOT ★ 5844 ⧗ 1",
           "description": "The friendly Operating System for the Internet of Things",
           "children": [],
           "repo_info": {
@@ -2667,11 +2667,11 @@
             "id": 7370241,
             "language": "C",
             "license": "LGPL-2.1",
-            "last_commit": "2026-11-20T21:19:02Z",
-            "open_issues": 921,
+            "last_commit": "2026-11-23T23:00:37Z",
+            "open_issues": 925,
             "owner": "RIOT-OS",
             "repo": "RIOT",
-            "stars": 5844,
+            "stars": 5843,
             "topics": [
               "c",
               "internet",
@@ -2689,7 +2689,7 @@
         },
         {
           "node_type": "item",
-          "title": "Huawei LiteOS ★ 4899 ⧗ 3",
+          "title": "Huawei LiteOS ★ 4898 ⧗ 3",
           "description": "Huawei LiteOS Kernel.",
           "children": [],
           "repo_info": {
@@ -2724,14 +2724,14 @@
             "open_issues": 211,
             "owner": "ARMmbed",
             "repo": "mbed-os",
-            "stars": 4883,
+            "stars": 4884,
             "topics": []
           },
           "first_seen": "2026-08-28T23:07:25.899Z"
         },
         {
           "node_type": "item",
-          "title": "Contiki ★ 3813 ⧗ 0",
+          "title": "Contiki ★ 3812 ⧗ 0",
           "description": "The Open Source OS for the Internet of Things",
           "children": [],
           "repo_info": {
@@ -2794,8 +2794,8 @@
             "id": 45165993,
             "language": "C",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-21T05:21:22Z",
-            "open_issues": 97,
+            "last_commit": "2026-11-23T10:32:45Z",
+            "open_issues": 96,
             "owner": "apache",
             "repo": "mynewt-core",
             "stars": 894,
@@ -2807,7 +2807,7 @@
         },
         {
           "node_type": "item",
-          "title": "f9-kernel ★ 767 ⧗ 4",
+          "title": "f9-kernel ★ 768 ⧗ 4",
           "description": "An efficient and secure microkernel built for ARM Cortex-M cores, inspired by L4",
           "children": [],
           "repo_info": {
@@ -2846,18 +2846,18 @@
             "id": 82517252,
             "language": "C",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-19T07:28:24Z",
-            "open_issues": 215,
+            "last_commit": "2026-11-24T00:39:44Z",
+            "open_issues": 211,
             "owner": "Samsung",
             "repo": "TizenRT",
-            "stars": 660,
+            "stars": 661,
             "topics": []
           },
           "first_seen": "2026-08-28T23:07:25.899Z"
         },
         {
           "node_type": "item",
-          "title": "pikoRT ★ 320 ⧗ 5",
+          "title": "pikoRT ★ 321 ⧗ 5",
           "description": "A tiny Linux-like real-time kernel optimized for ARM Cortex-M chips.",
           "children": [],
           "repo_info": {
@@ -2969,7 +2969,7 @@
             "open_issues": 0,
             "owner": "liuxuming",
             "repo": "trochili",
-            "stars": 133,
+            "stars": 132,
             "topics": []
           },
           "first_seen": "2026-08-28T23:07:25.899Z"
@@ -3011,7 +3011,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "flask-ask ★ 1911 ⧗ 0",
+          "title": "flask-ask ★ 1908 ⧗ 0",
           "description": "is a Flask extension that makes building Alexa skills for the Amazon Echo easier and much more fun.",
           "children": [],
           "repo_info": {
@@ -3094,7 +3094,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "Thingsboard ★ 22680 ⧗ 1700",
+          "title": "Thingsboard ★ 22714 ⧗ 1700",
           "description": "Open-source IoT Platform - Device management, data collection, processing and visualization.",
           "children": [],
           "repo_info": {
@@ -3104,11 +3104,11 @@
             "id": 75277003,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-22T20:16:41Z",
-            "open_issues": 398,
+            "last_commit": "2026-11-23T18:17:34Z",
+            "open_issues": 399,
             "owner": "thingsboard",
             "repo": "thingsboard",
-            "stars": 22703,
+            "stars": 22714,
             "topics": [
               "big-data",
               "cloud",
@@ -3134,7 +3134,7 @@
         },
         {
           "node_type": "item",
-          "title": "PlatformIO ★ 9606 ⧗ 0",
+          "title": "PlatformIO ★ 9625 ⧗ 0",
           "description": "PlatformIO is a cross-platform code builder and the missing library manager.",
           "children": [],
           "repo_info": {
@@ -3148,7 +3148,7 @@
             "open_issues": 290,
             "owner": "platformio",
             "repo": "platformio-core",
-            "stars": 9625,
+            "stars": 9627,
             "topics": [
               "arduino",
               "arm",
@@ -3176,7 +3176,7 @@
         },
         {
           "node_type": "item",
-          "title": "Fuxa SCADA/HMI/Dashboard ★ 5285 ⧗ 632",
+          "title": "Fuxa SCADA/HMI/Dashboard ★ 5318 ⧗ 632",
           "description": "FUXA is a web-based Process Visualization (SCADA/HMI/Dashboard) software. With FUXA you can create modern process visualizations/dashboards with individual designs for your machines/IOT application with real-time data display. Supports MQTT, OPC-UA, Modbus RTU/TCP, Siemens S7 Protocol, BACnet IP, Ethernet/IP (Allen Bradley), WebAPI",
           "children": [],
           "repo_info": {
@@ -3187,10 +3187,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-11-20T18:44:39Z",
-            "open_issues": 419,
+            "open_issues": 420,
             "owner": "frangoteam",
             "repo": "FUXA",
-            "stars": 5310,
+            "stars": 5319,
             "topics": [
               "angular",
               "bacnet",
@@ -3216,7 +3216,7 @@
         },
         {
           "node_type": "item",
-          "title": "Mongoose IoT ★ 2670 ⧗ 0",
+          "title": "Mongoose IoT ★ 2669 ⧗ 0",
           "description": "is a full-stack IoT platform including firmware and cloud components available for ESP8266.",
           "children": [],
           "repo_info": {
@@ -3230,7 +3230,7 @@
             "open_issues": 97,
             "owner": "cesanta",
             "repo": "mongoose-os",
-            "stars": 2669,
+            "stars": 2670,
             "topics": [
               "aws",
               "aws-iot",
@@ -3247,7 +3247,7 @@
         },
         {
           "node_type": "item",
-          "title": "IoT.js ★ 2594 ⧗ 0",
+          "title": "IoT.js ★ 2592 ⧗ 0",
           "description": "Platform for Internet of Things with JavaScript.",
           "children": [],
           "repo_info": {
@@ -3268,7 +3268,7 @@
         },
         {
           "node_type": "item",
-          "title": "IoT DC3 ★ 1272 ⧗ 0",
+          "title": "IoT DC3 ★ 1276 ⧗ 0",
           "description": "A fully open-source, distributed industrial IoT platform built on Spring Cloud, evolving for AI scenarios. Enables rapid IoT project development and connected-device management. (Docs)",
           "children": [],
           "repo_info": {
@@ -3282,7 +3282,7 @@
             "open_issues": 42,
             "owner": "pnoker",
             "repo": "iot-dc3",
-            "stars": 1275,
+            "stars": 1276,
             "topics": [
               "ai",
               "ai-agents",
@@ -3310,7 +3310,7 @@
         },
         {
           "node_type": "item",
-          "title": "HiveMQ ★ 1216 ⧗ 0",
+          "title": "HiveMQ ★ 1217 ⧗ 0",
           "description": "is an open source MQTT platform and MQTT broker.",
           "children": [],
           "repo_info": {
@@ -3366,7 +3366,7 @@
         },
         {
           "node_type": "item",
-          "title": "GrovePi ★ 497 ⧗ 0",
+          "title": "GrovePi ★ 496 ⧗ 0",
           "description": "is an open source platform for connecting Grove Sensors to the Raspberry Pi.",
           "children": [],
           "repo_info": {
@@ -3394,7 +3394,7 @@
         },
         {
           "node_type": "item",
-          "title": "United Manufacturing Hub ★ 410 ⧗ 0",
+          "title": "United Manufacturing Hub ★ 411 ⧗ 0",
           "description": "The Open-Source Manufacturing App Platform (combines various open source solutions and packages them in a Helm chart, for example nodered, VerneMQ and timescaleDB)",
           "children": [],
           "repo_info": {
@@ -3404,11 +3404,11 @@
             "id": 328461176,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-22T15:12:33Z",
-            "open_issues": 30,
+            "last_commit": "2026-11-23T17:32:17Z",
+            "open_issues": 36,
             "owner": "united-manufacturing-hub",
             "repo": "united-manufacturing-hub",
-            "stars": 411,
+            "stars": 412,
             "topics": [
               "iot",
               "oee"
@@ -3418,7 +3418,7 @@
         },
         {
           "node_type": "item",
-          "title": "IoTgo ★ 383 ⧗ 0",
+          "title": "IoTgo ★ 381 ⧗ 0",
           "description": "is an open source IoT platform, like WordPress, ZenCart and all other open source software, you can deploy your own IoTgo cloud service.",
           "children": [],
           "repo_info": {
@@ -3449,8 +3449,8 @@
             "id": 127430141,
             "language": "Elixir",
             "license": null,
-            "last_commit": "2026-11-19T10:15:43Z",
-            "open_issues": 164,
+            "last_commit": "2026-11-23T08:30:39Z",
+            "open_issues": 160,
             "owner": "astarte-platform",
             "repo": "astarte",
             "stars": 273,
@@ -3658,8 +3658,8 @@
             "id": 1279260938,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-22T19:40:28Z",
-            "open_issues": 13,
+            "last_commit": "2026-11-24T00:52:16Z",
+            "open_issues": 14,
             "owner": "devicechain-io",
             "repo": "devicechain",
             "stars": 9,
@@ -3790,7 +3790,7 @@
             "id": 157947831,
             "language": "C#",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-17T12:20:31Z",
+            "last_commit": "2026-11-23T09:38:10Z",
             "open_issues": 10,
             "owner": "IoTSharp",
             "repo": "IoTSharp",
@@ -3919,7 +3919,7 @@
             "id": 41084349,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-22T17:29:17Z",
+            "last_commit": "2026-11-23T21:01:51Z",
             "open_issues": 8,
             "owner": "kuzzleio",
             "repo": "kuzzle",
@@ -3945,7 +3945,7 @@
         },
         {
           "node_type": "item",
-          "title": "Kaa ★ 1440 ⧗ 0",
+          "title": "Kaa ★ 1439 ⧗ 0",
           "description": "Kaa open-source middleware platform for building, managing, and integrating connected products with the Internet of Everything.",
           "children": [],
           "repo_info": {
@@ -3971,7 +3971,7 @@
         },
         {
           "node_type": "item",
-          "title": "Shifu ★ 1436 ⧗ 0",
+          "title": "Shifu ★ 1437 ⧗ 0",
           "description": "Shifu is a Kubernetes native IoT development framework that supports multi-protocol device access.",
           "children": [],
           "repo_info": {
@@ -3981,8 +3981,8 @@
             "id": 394207324,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-20T22:42:45Z",
-            "open_issues": 24,
+            "last_commit": "2026-11-23T22:43:06Z",
+            "open_issues": 26,
             "owner": "Edgenesis",
             "repo": "shifu",
             "stars": 1437,
@@ -4013,34 +4013,7 @@
         },
         {
           "node_type": "item",
-          "title": "ThingSpeak ★ 1049 ⧗ 0",
-          "description": "ThingSpeak is an open source \"Internet of Things\" application and API to store and retrieve data from things using HTTP over the Internet or via a Local Area Network.\\",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": "ThingSpeak for IoT Projects Data collection in the cloud with advanced data analysis using MATLAB.",
-            "homepage": "https://thingspeak.mathworks.com/",
-            "id": 1180995,
-            "language": "Ruby",
-            "license": "NOASSERTION",
-            "last_commit": "2026-11-20T21:20:58Z",
-            "open_issues": 1,
-            "owner": "iobridge",
-            "repo": "thingspeak",
-            "stars": 1048,
-            "topics": [
-              "data-analytics",
-              "data-visualization",
-              "iot",
-              "matlab",
-              "thingspeak"
-            ]
-          },
-          "first_seen": "2026-08-28T23:07:25.899Z"
-        },
-        {
-          "node_type": "item",
-          "title": "OpenIoT ★ 472 ⧗ 0",
+          "title": "OpenIoT ★ 471 ⧗ 0",
           "description": "The OpenIoT middleware infrastructure will support flexible configuration and deployment of algorithms for collection",
           "children": [],
           "repo_info": {
@@ -4109,7 +4082,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "Renode ★ 3152 ⧗ 0",
+          "title": "Renode ★ 3179 ⧗ 0",
           "description": "a virtual development tool for multinode embedded networks.",
           "children": [],
           "repo_info": {
@@ -4119,11 +4092,11 @@
             "id": 95903234,
             "language": "RobotFramework",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-20T14:25:53Z",
-            "open_issues": 467,
+            "last_commit": "2026-11-23T14:12:35Z",
+            "open_issues": 469,
             "owner": "renode",
             "repo": "renode",
-            "stars": 3178,
+            "stars": 3181,
             "topics": [
               "arm",
               "embedded-systems",
@@ -4138,7 +4111,7 @@
         },
         {
           "node_type": "item",
-          "title": "KinomaJS ★ 446 ⧗ 0",
+          "title": "KinomaJS ★ 445 ⧗ 0",
           "description": "A JavaScript runtime optimized for the applications that power IoT devices.",
           "children": [],
           "repo_info": {
@@ -4260,7 +4233,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "D3.JS ★ 113938 ⧗ 0",
+          "title": "D3.JS ★ 113994 ⧗ 0",
           "description": "A JavaScript visualization library for HTML and SVG",
           "children": [],
           "repo_info": {
@@ -4270,11 +4243,11 @@
             "id": 943149,
             "language": "Shell",
             "license": "ISC",
-            "last_commit": "2026-11-03T19:44:29Z",
-            "open_issues": 27,
+            "last_commit": "2026-11-23T23:23:19Z",
+            "open_issues": 26,
             "owner": "d3",
             "repo": "d3",
-            "stars": 113994,
+            "stars": 113995,
             "topics": [
               "chart",
               "charts",
@@ -4288,7 +4261,7 @@
         },
         {
           "node_type": "item",
-          "title": "ECharts ★ 67733 ⧗ 0",
+          "title": "ECharts ★ 67782 ⧗ 0",
           "description": "Echarts is a commercial charting solution originally intended to address the report need of the Company's various business systems.",
           "children": [],
           "repo_info": {
@@ -4299,10 +4272,10 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-10-13T09:27:20Z",
-            "open_issues": 1470,
+            "open_issues": 1476,
             "owner": "apache",
             "repo": "echarts",
-            "stars": 67777,
+            "stars": 67787,
             "topics": [
               "apache",
               "canvas",
@@ -4329,8 +4302,8 @@
             "id": 715547,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-20T23:29:59Z",
-            "open_issues": 703,
+            "last_commit": "2026-11-23T16:06:01Z",
+            "open_issues": 707,
             "owner": "highcharts",
             "repo": "highcharts",
             "stars": 12502,
@@ -4340,7 +4313,7 @@
         },
         {
           "node_type": "item",
-          "title": "Freeboard ★ 6500 ⧗ 0",
+          "title": "Freeboard ★ 6499 ⧗ 0",
           "description": "A damn-sexy, open source real-time dashboard builder for IOT and other web mashups. A free open-source alternative to Geckoboard.",
           "children": [],
           "repo_info": {
@@ -4402,7 +4375,7 @@
             "open_issues": 130,
             "owner": "pulp-platform",
             "repo": "pulpino",
-            "stars": 1078,
+            "stars": 1079,
             "topics": []
           },
           "first_seen": "2026-08-28T23:07:25.899Z"
@@ -4451,7 +4424,7 @@
         },
         {
           "node_type": "item",
-          "title": "Widora ★ 174 ⧗ 21",
+          "title": "Widora ★ 173 ⧗ 21",
           "description": "Widora is open source WiFi development hardware prototype with sound card based on MT7688A running OpenWrt.",
           "children": [],
           "repo_info": {
@@ -4529,7 +4502,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "Homebridge ★ 25550 ⧗ 0",
+          "title": "Homebridge ★ 25560 ⧗ 0",
           "description": "Homebridge is a lightweight NodeJS server you can run on your home network that emulates the iOS HomeKit API.",
           "children": [],
           "repo_info": {
@@ -4539,11 +4512,11 @@
             "id": 27388642,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-21T17:13:02Z",
+            "last_commit": "2026-11-22T23:44:30Z",
             "open_issues": 14,
             "owner": "homebridge",
             "repo": "homebridge",
-            "stars": 25560,
+            "stars": 25561,
             "topics": [
               "hap",
               "homebridge",
@@ -4568,11 +4541,11 @@
             "id": 12618379,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-17T13:05:04Z",
+            "last_commit": "2026-11-23T16:23:43Z",
             "open_issues": 355,
             "owner": "node-red",
             "repo": "node-red",
-            "stars": 23868,
+            "stars": 23873,
             "topics": [
               "flow-based-programming",
               "javascript",
@@ -4586,7 +4559,7 @@
         },
         {
           "node_type": "item",
-          "title": "Smart Mirror ★ 2820 ⧗ 0",
+          "title": "Smart Mirror ★ 2821 ⧗ 0",
           "description": "The fairest of them all. A DIY voice controlled smart mirror with IoT integration.",
           "children": [],
           "repo_info": {
@@ -4613,7 +4586,7 @@
         },
         {
           "node_type": "item",
-          "title": "openHAB ★ 1389 ⧗ 0",
+          "title": "openHAB ★ 1388 ⧗ 0",
           "description": "a vendor and technology agnostic open source automation software for your home.",
           "children": [],
           "repo_info": {
@@ -4623,8 +4596,8 @@
             "id": 48767955,
             "language": "PowerShell",
             "license": "EPL-2.0",
-            "last_commit": "2026-11-18T21:59:57Z",
-            "open_issues": 74,
+            "last_commit": "2026-11-23T20:07:46Z",
+            "open_issues": 72,
             "owner": "openhab",
             "repo": "openhab-distro",
             "stars": 1388,
@@ -4653,7 +4626,7 @@
             "open_issues": 5,
             "owner": "mihai-dinculescu",
             "repo": "tapo",
-            "stars": 877,
+            "stars": 879,
             "topics": [
               "iot",
               "l510",
@@ -4735,10 +4708,10 @@
             "language": "TypeScript",
             "license": "GPL-3.0",
             "last_commit": "2026-11-19T17:23:38Z",
-            "open_issues": 8,
+            "open_issues": 9,
             "owner": "KristianP26",
             "repo": "ble-scale-sync",
-            "stars": 230,
+            "stars": 231,
             "topics": [
               "ble",
               "body-composition",
@@ -4860,7 +4833,7 @@
             "language": "TypeScript",
             "license": "GPL-3.0",
             "last_commit": "2026-11-20T09:11:05Z",
-            "open_issues": 2,
+            "open_issues": 5,
             "owner": "BitWise-0x",
             "repo": "homebridge-blink-security",
             "stars": 16,
@@ -4914,27 +4887,6 @@
         },
         {
           "node_type": "item",
-          "title": "ZHAC",
-          "description": "A dual-chip ESP32-P4 + ESP32-S3 Zigbee home automation controller with a Lua rule engine, local web UI, and MQTT gateway.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": "Meta-repo for [ZHAC] — an ESP32 dual-chip Zigbee Home Automation Controller. This repo is not built directly; it aggregates four source repositories via git submodules and carries the project's public identity (umbrella LICENSE, NOTICE, CLA, contributor list, cross-repo integration tests).",
-            "homepage": null,
-            "id": 1235948272,
-            "language": "Just",
-            "license": "NOASSERTION",
-            "last_commit": "2026-11-19T18:54:32Z",
-            "open_issues": 0,
-            "owner": "zhac-project",
-            "repo": "zhac-platform",
-            "stars": 0,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T23:07:25.899Z"
-        },
-        {
-          "node_type": "item",
           "title": "Animara Free Sampler",
           "description": "MIT licensed animated SVG device icons for Home Assistant dashboards that follow each device's real state (fan spins, kettle boils), installable as a HACS custom repository.",
           "children": [],
@@ -4977,7 +4929,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "Stino ★ 1567 ⧗ 1",
+          "title": "Stino ★ 1564 ⧗ 1",
           "description": "is a Sublime Text plugin that provides an Arduino-like environment for editing, compiling and uploading sketches.",
           "children": [],
           "repo_info": {
@@ -4998,7 +4950,7 @@
         },
         {
           "node_type": "item",
-          "title": "DevIoT ★ 312 ⧗ 1",
+          "title": "DevIoT ★ 309 ⧗ 1",
           "description": "Sublime Text plugin for IoT development.",
           "children": [],
           "repo_info": {
@@ -5034,7 +4986,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "AirSim ★ 18616 ⧗ 1",
+          "title": "AirSim ★ 18631 ⧗ 1",
           "description": "is a simulator for drones (and soon other vehicles) built on Unreal Engine.",
           "children": [],
           "repo_info": {
@@ -5048,7 +5000,7 @@
             "open_issues": 781,
             "owner": "microsoft",
             "repo": "AirSim",
-            "stars": 18630,
+            "stars": 18633,
             "topics": [
               "ai",
               "airsim",
@@ -5073,7 +5025,7 @@
         },
         {
           "node_type": "item",
-          "title": "hubot ★ 16796 ⧗ 0",
+          "title": "hubot ★ 16799 ⧗ 0",
           "description": "A customizable life embetterment robot.",
           "children": [],
           "repo_info": {
@@ -5087,7 +5039,7 @@
             "open_issues": 4,
             "owner": "hubotio",
             "repo": "hubot",
-            "stars": 16798,
+            "stars": 16800,
             "topics": [
               "bot",
               "chat",
@@ -5112,7 +5064,7 @@
             "open_issues": 21,
             "owner": "hybridgroup",
             "repo": "artoo",
-            "stars": 1539,
+            "stars": 1538,
             "topics": []
           },
           "first_seen": "2026-08-28T23:07:25.899Z"
@@ -5125,7 +5077,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "Sonoff-Tasmota ★ 24990 ⧗ 0",
+          "title": "Sonoff-Tasmota ★ 25013 ⧗ 0",
           "description": "Provide ESP8266 based itead Sonoff with Web, MQTT and OTA firmware using Arduino IDE.",
           "children": [],
           "repo_info": {
@@ -5135,11 +5087,11 @@
             "id": 80286288,
             "language": "C",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-21T17:03:53Z",
-            "open_issues": 16,
+            "last_commit": "2026-11-23T16:29:57Z",
+            "open_issues": 14,
             "owner": "arendst",
             "repo": "Tasmota",
-            "stars": 25010,
+            "stars": 25016,
             "topics": [
               "arduino",
               "automation",
@@ -5160,7 +5112,7 @@
         },
         {
           "node_type": "item",
-          "title": "Node-RED ★ 23849 ⧗ 0",
+          "title": "Node-RED ★ 23870 ⧗ 0",
           "description": "A visual tool for wiring the Internet of Things.",
           "children": [],
           "repo_info": {
@@ -5170,11 +5122,11 @@
             "id": 12618379,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-17T13:05:04Z",
+            "last_commit": "2026-11-23T16:23:43Z",
             "open_issues": 355,
             "owner": "node-red",
             "repo": "node-red",
-            "stars": 23868,
+            "stars": 23873,
             "topics": [
               "flow-based-programming",
               "javascript",
@@ -5188,7 +5140,7 @@
         },
         {
           "node_type": "item",
-          "title": "ESP8266 Deauther ★ 15108 ⧗ 0",
+          "title": "ESP8266 Deauther ★ 15122 ⧗ 0",
           "description": "allows you to perform a deauth attack with an ESP8266 against selected networks.",
           "children": [],
           "repo_info": {
@@ -5202,7 +5154,7 @@
             "open_issues": 99,
             "owner": "SpacehuhnTech",
             "repo": "esp8266_deauther",
-            "stars": 15121,
+            "stars": 15124,
             "topics": [
               "arduino",
               "attack",
@@ -5220,7 +5172,7 @@
         },
         {
           "node_type": "item",
-          "title": "fluent-bit ★ 8190 ⧗ 4",
+          "title": "fluent-bit ★ 8206 ⧗ 4",
           "description": "is a data collector for Linux, Embedded Linux, OSX and BSD family operating systems.",
           "children": [],
           "repo_info": {
@@ -5230,11 +5182,11 @@
             "id": 29933948,
             "language": "C",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-21T14:36:46Z",
-            "open_issues": 866,
+            "last_commit": "2026-11-23T19:15:31Z",
+            "open_issues": 869,
             "owner": "fluent",
             "repo": "fluent-bit",
-            "stars": 8205,
+            "stars": 8206,
             "topics": [
               "c",
               "cloudnative",
@@ -5555,7 +5507,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "MicroPython ★ 22202 ⧗ 0",
+          "title": "MicroPython ★ 22222 ⧗ 0",
           "description": "MicroPython is a lean and fast implementation of the Python 3 programming language that is optimised to run on a microcontroller.",
           "children": [],
           "repo_info": {
@@ -5565,11 +5517,11 @@
             "id": 15337142,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-21T05:26:55Z",
-            "open_issues": 1599,
+            "last_commit": "2026-11-23T19:13:58Z",
+            "open_issues": 1609,
             "owner": "micropython",
             "repo": "micropython",
-            "stars": 22219,
+            "stars": 22223,
             "topics": [
               "embedded",
               "microcontroller",
@@ -5581,7 +5533,7 @@
         },
         {
           "node_type": "item",
-          "title": "JerryScript ★ 7422 ⧗ 0",
+          "title": "JerryScript ★ 7423 ⧗ 0",
           "description": "A JavaScript engine for Internet of Things.",
           "children": [],
           "repo_info": {
@@ -5595,7 +5547,7 @@
             "open_issues": 253,
             "owner": "jerryscript-project",
             "repo": "jerryscript",
-            "stars": 7423,
+            "stars": 7422,
             "topics": [
               "internet-of-things",
               "iot",
@@ -5609,7 +5561,7 @@
         },
         {
           "node_type": "item",
-          "title": "luvit ★ 3972 ⧗ 0",
+          "title": "luvit ★ 3970 ⧗ 0",
           "description": "Node.JS for the Lua Inventor.",
           "children": [],
           "repo_info": {
@@ -5619,8 +5571,8 @@
             "id": 2363097,
             "language": "Lua",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-22T04:47:19Z",
-            "open_issues": 98,
+            "last_commit": "2026-11-23T07:59:02Z",
+            "open_issues": 99,
             "owner": "luvit",
             "repo": "luvit",
             "stars": 3970,
@@ -5636,7 +5588,7 @@
         },
         {
           "node_type": "item",
-          "title": "Terra ★ 2930 ⧗ 0",
+          "title": "Terra ★ 2929 ⧗ 0",
           "description": "is a low-level system programming language that is embedded in and meta-programmed by the Lua programming language.",
           "children": [],
           "repo_info": {
@@ -5657,7 +5609,7 @@
         },
         {
           "node_type": "item",
-          "title": "AtomVM ★ 2273 ⧗ 0",
+          "title": "AtomVM ★ 2271 ⧗ 0",
           "description": "AtomVM is a tiny portable virtual machine that allows Erlang and Elixir code to run on microcontrollers with less than 500KB of RAM such as the ESP32.",
           "children": [],
           "repo_info": {
@@ -5667,8 +5619,8 @@
             "id": 109575106,
             "language": "Erlang",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-21T09:31:59Z",
-            "open_issues": 209,
+            "last_commit": "2026-11-23T13:31:37Z",
+            "open_issues": 205,
             "owner": "atomvm",
             "repo": "AtomVM",
             "stars": 2271,
@@ -5721,7 +5673,7 @@
         },
         {
           "node_type": "item",
-          "title": "V7 ★ 1452 ⧗ 0",
+          "title": "V7 ★ 1450 ⧗ 0",
           "description": "V7 is a JavaScript engine written in C. It makes it possible to program Internet of Things (IoT) devices in JavaScript.",
           "children": [],
           "repo_info": {
@@ -5855,7 +5807,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "mbed TLS ★ 7063 ⧗ 0",
+              "title": "mbed TLS ★ 7077 ⧗ 0",
               "description": "An open source, portable, easy to use, readable and flexible SSL library",
               "children": [],
               "repo_info": {
@@ -5865,11 +5817,11 @@
                 "id": 6687936,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-17T16:16:25Z",
-                "open_issues": 1777,
+                "last_commit": "2026-11-23T13:22:33Z",
+                "open_issues": 1780,
                 "owner": "Mbed-TLS",
                 "repo": "mbedtls",
-                "stars": 7076,
+                "stars": 7078,
                 "topics": [
                   "crypto",
                   "cryptography-library",
@@ -5903,7 +5855,7 @@
             },
             {
               "node_type": "item",
-              "title": "LittleD ★ 739 ⧗ 3",
+              "title": "LittleD ★ 741 ⧗ 3",
               "description": "A relational database for embedded devices and sensors nodes.",
               "children": [],
               "repo_info": {
@@ -5958,7 +5910,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "EMQX ★ 16916 ⧗ 1800",
+              "title": "EMQX ★ 16933 ⧗ 1800",
               "description": "An ultra-scalable open-source MQTT broker. Connect 100M+ IoT devices in one single cluster, move and process real-time IoT data with 1M msg/s throughput at 1ms latency.",
               "children": [],
               "repo_info": {
@@ -5968,11 +5920,11 @@
                 "id": 7202769,
                 "language": "Erlang",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-22T11:43:56Z",
-                "open_issues": 281,
+                "last_commit": "2026-11-23T21:34:58Z",
+                "open_issues": 280,
                 "owner": "emqx",
                 "repo": "emqx",
-                "stars": 16929,
+                "stars": 16935,
                 "topics": [
                   "aiot",
                   "broker",
@@ -6000,7 +5952,7 @@
             },
             {
               "node_type": "item",
-              "title": "Mosquitto ★ 11424 ⧗ 0",
+              "title": "Mosquitto ★ 11484 ⧗ 0",
               "description": "An Open Source MQTT v3.1/v3.1.1 Broker.",
               "children": [],
               "repo_info": {
@@ -6011,10 +5963,10 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-19T00:38:36Z",
-                "open_issues": 932,
+                "open_issues": 937,
                 "owner": "eclipse-mosquitto",
                 "repo": "mosquitto",
-                "stars": 11484,
+                "stars": 11488,
                 "topics": [
                   "broker",
                   "eclipse-iot",
@@ -6042,10 +5994,10 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-20T07:15:24Z",
-                "open_issues": 63,
+                "open_issues": 65,
                 "owner": "mqttjs",
                 "repo": "MQTT.js",
-                "stars": 9131,
+                "stars": 9129,
                 "topics": [
                   "hacktoberfest",
                   "javascript",
@@ -6058,7 +6010,7 @@
             },
             {
               "node_type": "item",
-              "title": "PubSub Client ★ 4014 ⧗ 0",
+              "title": "PubSub Client ★ 4017 ⧗ 0",
               "description": "A client library for the Arduino Ethernet Shield that provides support for MQTT.",
               "children": [],
               "repo_info": {
@@ -6072,14 +6024,14 @@
                 "open_issues": 569,
                 "owner": "knolleary",
                 "repo": "pubsubclient",
-                "stars": 4016,
+                "stars": 4017,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:07:25.899Z"
             },
             {
               "node_type": "item",
-              "title": "VerneMQ ★ 3654 ⧗ 1",
+              "title": "VerneMQ ★ 3657 ⧗ 1",
               "description": "A distributed MQTT message broker.",
               "children": [],
               "repo_info": {
@@ -6089,11 +6041,11 @@
                 "id": 36350782,
                 "language": "Erlang",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-20T12:07:34Z",
+                "last_commit": "2026-11-23T16:04:20Z",
                 "open_issues": 184,
                 "owner": "vernemq",
                 "repo": "vernemq",
-                "stars": 3657,
+                "stars": 3658,
                 "topics": [
                   "broker",
                   "distributed",
@@ -6130,11 +6082,11 @@
                 "id": 73599169,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-11-20T11:02:40Z",
-                "open_issues": 60,
+                "last_commit": "2026-11-23T03:27:56Z",
+                "open_issues": 58,
                 "owner": "nanomq",
                 "repo": "nanomq",
-                "stars": 2666,
+                "stars": 2667,
                 "topics": [
                   "actor-model",
                   "aio",
@@ -6162,7 +6114,7 @@
             },
             {
               "node_type": "item",
-              "title": "moquette ★ 2464 ⧗ 2",
+              "title": "moquette ★ 2461 ⧗ 2",
               "description": "Java MQTT lightweight broker.",
               "children": [],
               "repo_info": {
@@ -6172,8 +6124,8 @@
                 "id": 24653868,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-21T20:43:35Z",
-                "open_issues": 147,
+                "last_commit": "2026-11-23T21:37:34Z",
+                "open_issues": 145,
                 "owner": "moquette-io",
                 "repo": "moquette",
                 "stars": 2461,
@@ -6188,7 +6140,7 @@
             },
             {
               "node_type": "item",
-              "title": "Eclipse Paho MQTT C client ★ 2393 ⧗ 3",
+              "title": "Eclipse Paho MQTT C client ★ 2394 ⧗ 3",
               "description": "This code builds libraries which enable applications to connect to an MQTT broker to publish messages, and to subscribe to topics and receive published messages.",
               "children": [],
               "repo_info": {
@@ -6198,8 +6150,8 @@
                 "id": 48130039,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-06T22:44:07Z",
-                "open_issues": 239,
+                "last_commit": "2026-11-23T16:53:41Z",
+                "open_issues": 234,
                 "owner": "eclipse-paho",
                 "repo": "paho.mqtt.c",
                 "stars": 2394,
@@ -6244,7 +6196,7 @@
             },
             {
               "node_type": "item",
-              "title": "Java mqtt-client ★ 1275 ⧗ 2",
+              "title": "Java mqtt-client ★ 1274 ⧗ 2",
               "description": "A Java MQTT Client.",
               "children": [],
               "repo_info": {
@@ -6265,7 +6217,7 @@
             },
             {
               "node_type": "item",
-              "title": "Eclipse Paho JavaScript client ★ 1183 ⧗ 1",
+              "title": "Eclipse Paho JavaScript client ★ 1181 ⧗ 1",
               "description": "The Paho JavaScript Client is an MQTT browser-based client library written in Javascript that uses WebSockets to connect to an MQTT Broker.",
               "children": [],
               "repo_info": {
@@ -6313,7 +6265,7 @@
             },
             {
               "node_type": "item",
-              "title": "arduino-mqtt ★ 1094 ⧗ 6",
+              "title": "arduino-mqtt ★ 1096 ⧗ 6",
               "description": "MQTT library for Arduino based on the Eclipse Paho projects.",
               "children": [],
               "repo_info": {
@@ -6327,7 +6279,7 @@
                 "open_issues": 8,
                 "owner": "256dpi",
                 "repo": "arduino-mqtt",
-                "stars": 1095,
+                "stars": 1096,
                 "topics": [
                   "arduino",
                   "iot",
@@ -6338,7 +6290,7 @@
             },
             {
               "node_type": "item",
-              "title": "MQTT-C ★ 904 ⧗ 2",
+              "title": "MQTT-C ★ 907 ⧗ 2",
               "description": "A portable MQTT C client for embedded systems and PCs alike.",
               "children": [],
               "repo_info": {
@@ -6366,7 +6318,7 @@
             },
             {
               "node_type": "item",
-              "title": "WolfSSL MQTT ★ 598 ⧗ 14",
+              "title": "WolfSSL MQTT ★ 597 ⧗ 14",
               "description": "A C MQTT library that works with WolfSSL.",
               "children": [],
               "repo_info": {
@@ -6570,7 +6522,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "MQTT Client Framework ★ 1879 ⧗ 1",
+              "title": "MQTT Client Framework ★ 1878 ⧗ 1",
               "description": "iOS, OSX, tvOS native ObjectiveC MQTT Client Framework.",
               "children": [],
               "repo_info": {
@@ -6595,7 +6547,7 @@
             },
             {
               "node_type": "item",
-              "title": "Californium ★ 781 ⧗ 0",
+              "title": "Californium ★ 780 ⧗ 0",
               "description": "Californium is a Java implementation of CoAP for the IoT backend and less constrained IoT devices.",
               "children": [],
               "repo_info": {
@@ -6665,7 +6617,7 @@
             },
             {
               "node_type": "item",
-              "title": "Go CoAP ★ 343 ⧗ 8",
+              "title": "Go CoAP ★ 342 ⧗ 8",
               "description": "Implementation of CoAP in go.",
               "children": [],
               "repo_info": {
@@ -6999,7 +6951,7 @@
             },
             {
               "node_type": "item",
-              "title": "arduino-esp8266-alexa-wemo-switch ★ 286 ⧗ 5",
+              "title": "arduino-esp8266-alexa-wemo-switch ★ 287 ⧗ 5",
               "description": "Amazon Alexa + WeMos switch made with Arduino D1 Mini.",
               "children": [],
               "repo_info": {
@@ -7146,7 +7098,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "OpenThread ★ 4068 ⧗ 2",
+              "title": "OpenThread ★ 4072 ⧗ 2",
               "description": "OpenThread is an open-source implementation of the Thread networking protocol.",
               "children": [],
               "repo_info": {
@@ -7156,8 +7108,8 @@
                 "id": 55808787,
                 "language": "C++",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-22T07:22:44Z",
-                "open_issues": 96,
+                "last_commit": "2026-11-23T20:54:45Z",
+                "open_issues": 107,
                 "owner": "openthread",
                 "repo": "openthread",
                 "stars": 4072,
@@ -7179,7 +7131,7 @@
             },
             {
               "node_type": "item",
-              "title": "OpenThread Border Router ★ 585 ⧗ 0",
+              "title": "OpenThread Border Router ★ 586 ⧗ 0",
               "description": "An open source border router, built to work with OpenThread.",
               "children": [],
               "repo_info": {
@@ -7189,8 +7141,8 @@
                 "id": 90885820,
                 "language": "C++",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-20T15:39:51Z",
-                "open_issues": 43,
+                "last_commit": "2026-11-23T17:41:38Z",
+                "open_issues": 45,
                 "owner": "openthread",
                 "repo": "ot-br-posix",
                 "stars": 586,
@@ -7218,7 +7170,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "libimobiledevice ★ 8350 ⧗ 0",
+              "title": "libimobiledevice ★ 8375 ⧗ 0",
               "description": "A library to communicate with services of Apple iOS devices using native protocols.",
               "children": [],
               "repo_info": {
@@ -7245,7 +7197,7 @@
             },
             {
               "node_type": "item",
-              "title": "MeQ ★ 3962 ⧗ 1",
+              "title": "MeQ ★ 3961 ⧗ 1",
               "description": "is a real-time communication service for connecting online devices.",
               "children": [],
               "repo_info": {
@@ -7288,7 +7240,7 @@
                 "open_issues": 0,
                 "owner": "AVSystem",
                 "repo": "Anjay",
-                "stars": 221,
+                "stars": 220,
                 "topics": [
                   "c",
                   "coap",
@@ -7312,7 +7264,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "libmodbus ★ 4293 ⧗ 50",
+              "title": "libmodbus ★ 4296 ⧗ 50",
               "description": "A Modbus library for Linux, Mac OS, FreeBSD, QNX and Windows, written in C.",
               "children": [],
               "repo_info": {
@@ -7326,7 +7278,7 @@
                 "open_issues": 208,
                 "owner": "stephane",
                 "repo": "libmodbus",
-                "stars": 4296,
+                "stars": 4298,
                 "topics": [
                   "automation",
                   "c",
@@ -7338,7 +7290,7 @@
             },
             {
               "node_type": "item",
-              "title": "pymodbus ★ 2800 ⧗ 100",
+              "title": "pymodbus ★ 2805 ⧗ 100",
               "description": "A full Modbus protocol implementation for Python, supporting RTU, TCP, ASCII over serial and network transports.",
               "children": [],
               "repo_info": {
@@ -7348,8 +7300,8 @@
                 "id": 2913579,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-22T09:52:48Z",
-                "open_issues": 3,
+                "last_commit": "2026-11-23T18:02:47Z",
+                "open_issues": 2,
                 "owner": "pymodbus-dev",
                 "repo": "pymodbus",
                 "stars": 2805,
@@ -7369,7 +7321,7 @@
             },
             {
               "node_type": "item",
-              "title": "aem-modbus-simulator ★ 2 ⧗ 0",
+              "title": "aem-modbus-simulator ★ 3 ⧗ 0",
               "description": "Open-source Modbus RTU/TCP slave simulator for the LRI AEM-60DC8 industrial DC monitor. Mirrors 147 holding registers, supports six baudrates (4,800–115,200), TCP and Serial modes. Useful for SCADA/PLC integration testing without physical hardware.",
               "children": [],
               "repo_info": {
@@ -7486,7 +7438,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "libnfc ★ 2007 ⧗ 4",
+              "title": "libnfc ★ 2008 ⧗ 4",
               "description": "Platform independent Near Field Communication library.",
               "children": [],
               "repo_info": {
@@ -7497,10 +7449,10 @@
                 "language": "C",
                 "license": "LGPL-3.0",
                 "last_commit": "2025-03-05T13:47:26Z",
-                "open_issues": 121,
+                "open_issues": 123,
                 "owner": "nfc-tools",
                 "repo": "libnfc",
-                "stars": 2008,
+                "stars": 2007,
                 "topics": [
                   "c",
                   "libnfc",
@@ -7512,7 +7464,7 @@
             },
             {
               "node_type": "item",
-              "title": "RFIDIOt ★ 1137 ⧗ 6",
+              "title": "RFIDIOt ★ 1136 ⧗ 6",
               "description": "python RFID / NFC library & tools.",
               "children": [],
               "repo_info": {
@@ -7533,7 +7485,7 @@
             },
             {
               "node_type": "item",
-              "title": "NFC Tools for Java ★ 312 ⧗ 26",
+              "title": "NFC Tools for Java ★ 310 ⧗ 26",
               "description": "NFCTools is a collection of libraries and tools for NFC in Java.",
               "children": [],
               "repo_info": {
@@ -7554,7 +7506,7 @@
             },
             {
               "node_type": "item",
-              "title": "LibLogicalAccess ★ 278 ⧗ 17",
+              "title": "LibLogicalAccess ★ 280 ⧗ 17",
               "description": "C++ RFID Library for Windows/Linux/Mac. For PC/SC, NFC, ISO compliant and proprietary hardware.",
               "children": [],
               "repo_info": {
@@ -7612,7 +7564,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "rxtx ★ 341 ⧗ 4",
+              "title": "rxtx ★ 339 ⧗ 4",
               "description": "a Java cross platform wrapper library for the serial port",
               "children": [],
               "repo_info": {
@@ -7645,7 +7597,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Servo ★ 38528 ⧗ 0",
+              "title": "Servo ★ 38592 ⧗ 0",
               "description": "is a prototype web browser engine written in the Rust language.",
               "children": [],
               "repo_info": {
@@ -7655,11 +7607,11 @@
                 "id": 3390243,
                 "language": "Rust",
                 "license": "MPL-2.0",
-                "last_commit": "2026-11-22T19:06:18Z",
-                "open_issues": 3164,
+                "last_commit": "2026-11-23T22:17:17Z",
+                "open_issues": 3171,
                 "owner": "servo",
                 "repo": "servo",
-                "stars": 38589,
+                "stars": 38610,
                 "topics": [
                   "browser",
                   "rust",
@@ -7674,7 +7626,7 @@
             },
             {
               "node_type": "item",
-              "title": "Drake ★ 4257 ⧗ 0",
+              "title": "Drake ★ 4263 ⧗ 0",
               "description": "is a toolbox maintained by the Robot Locomotion Group at the MIT Computer Science and Artificial Intelligence Lab (CSAIL).",
               "children": [],
               "repo_info": {
@@ -7684,8 +7636,8 @@
                 "id": 16256144,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-22T18:42:01Z",
-                "open_issues": 621,
+                "last_commit": "2026-11-24T01:02:10Z",
+                "open_issues": 620,
                 "owner": "RobotLocomotion",
                 "repo": "drake",
                 "stars": 4263,
@@ -7698,7 +7650,7 @@
             },
             {
               "node_type": "item",
-              "title": "ShellHub ★ 2250 ⧗ 70",
+              "title": "ShellHub ★ 2249 ⧗ 70",
               "description": "Centralized SSH for the the edge and cloud computing.",
               "children": [],
               "repo_info": {
@@ -7708,8 +7660,8 @@
                 "id": 187078631,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-20T08:02:18Z",
-                "open_issues": 16,
+                "last_commit": "2026-11-23T20:57:58Z",
+                "open_issues": 33,
                 "owner": "shellhub-io",
                 "repo": "shellhub",
                 "stars": 2249,
@@ -7730,7 +7682,7 @@
             },
             {
               "node_type": "item",
-              "title": "The Things Stack ★ 1178 ⧗ 4",
+              "title": "The Things Stack ★ 1179 ⧗ 4",
               "description": "The Things Stack, an open source LoRaWAN network server created by The Things Industries. Creators of the global open crowdsourced Internet of Things data network The Things Network.",
               "children": [],
               "repo_info": {
@@ -7740,8 +7692,8 @@
                 "id": 165405689,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-20T00:55:30Z",
-                "open_issues": 186,
+                "last_commit": "2026-11-23T23:03:46Z",
+                "open_issues": 191,
                 "owner": "TheThingsNetwork",
                 "repo": "lorawan-stack",
                 "stars": 1179,
@@ -7891,8 +7843,8 @@
                 "id": 23082318,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2024-07-09T17:13:58Z",
-                "open_issues": 34,
+                "last_commit": "2026-11-23T13:35:26Z",
+                "open_issues": 35,
                 "owner": "kipe",
                 "repo": "enocean",
                 "stars": 79,
@@ -7938,7 +7890,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "Processing ★ 6475 ⧗ 0",
+          "title": "Processing ★ 6472 ⧗ 0",
           "description": "Processing is a flexible software sketchbook and a language for learning how to code within the context of the visual arts.",
           "children": [],
           "repo_info": {
@@ -7986,7 +7938,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "Smart.js ★ 2670 ⧗ 0",
+          "title": "Smart.js ★ 2669 ⧗ 0",
           "description": "Embedded Javascript engine for C/C++ with networking, file, database and device interfaces",
           "children": [],
           "repo_info": {
@@ -8000,7 +7952,7 @@
             "open_issues": 97,
             "owner": "cesanta",
             "repo": "mongoose-os",
-            "stars": 2669,
+            "stars": 2670,
             "topics": [
               "aws",
               "aws-iot",
@@ -8027,11 +7979,11 @@
             "id": 1121989093,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-22T20:16:46Z",
-            "open_issues": 21,
+            "last_commit": "2026-11-24T00:50:46Z",
+            "open_issues": 25,
             "owner": "libredb",
             "repo": "libredb-studio",
-            "stars": 1363,
+            "stars": 1365,
             "topics": [
               "cassandra",
               "clickhouse",
@@ -8073,7 +8025,7 @@
             "open_issues": 0,
             "owner": "emirmrkaljevic",
             "repo": "usb-rea",
-            "stars": 155,
+            "stars": 160,
             "topics": [
               "cli",
               "drivers",
@@ -8103,11 +8055,11 @@
             "id": 1189028253,
             "language": "Go",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-22T19:47:44Z",
-            "open_issues": 5,
+            "last_commit": "2026-11-24T01:04:49Z",
+            "open_issues": 8,
             "owner": "fclairamb",
             "repo": "solidping",
-            "stars": 47,
+            "stars": 53,
             "topics": [
               "alerting",
               "devops",
@@ -8221,7 +8173,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Design IoT ★ 2226 ⧗ 0",
+              "title": "Design IoT ★ 2228 ⧗ 0",
               "description": "A Ebook to tech your create IoT System step by step.",
               "children": [],
               "repo_info": {
@@ -8303,7 +8255,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "awesome-mqtt ★ 2414 ⧗ 0",
+              "title": "awesome-mqtt ★ 2415 ⧗ 0",
               "description": "Curated list of MQTT related stuff.",
               "children": [],
               "repo_info": {
@@ -8313,8 +8265,8 @@
                 "id": 44929620,
                 "language": null,
                 "license": "CC0-1.0",
-                "last_commit": "2026-11-22T20:20:48Z",
-                "open_issues": 3,
+                "last_commit": "2026-11-22T20:32:06Z",
+                "open_issues": 6,
                 "owner": "awesome-mqtt",
                 "repo": "awesome-mqtt",
                 "stars": 2415,
@@ -8341,11 +8293,11 @@
                 "id": 1414599291,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-22T14:51:11Z",
+                "last_commit": "2026-11-23T18:39:48Z",
                 "open_issues": 4,
                 "owner": "alexgaoth",
                 "repo": "awesome-reverse-engineered",
-                "stars": 1521,
+                "stars": 1539,
                 "topics": [
                   "agent-skills",
                   "ai-agents",
@@ -8394,7 +8346,7 @@
                 "open_issues": 0,
                 "owner": "kritishmohapatra",
                 "repo": "100_Days_100_IoT_Projects",
-                "stars": 1603,
+                "stars": 1604,
                 "topics": [
                   "100daysofcode",
                   "adafruit",
@@ -8453,7 +8405,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "Project Flogo ★ 2487 ⧗ 0",
+          "title": "Project Flogo ★ 2486 ⧗ 0",
           "description": "is an Open Source Framework for IoT Edge Apps & Integration.",
           "children": [],
           "repo_info": {
@@ -8495,7 +8447,7 @@
         },
         {
           "node_type": "item",
-          "title": "AREG SDK ★ 369 ⧗ 0",
+          "title": "AREG SDK ★ 368 ⧗ 0",
           "description": "AREG SDK is a developer-friendly, an interface-centric real-time asynchronous communication engine to enable distributed- and mist-computing, where connected Things interact and provide services, as if they act like thin distributed servers.",
           "children": [],
           "repo_info": {
@@ -8505,7 +8457,7 @@
             "id": 392349560,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-22T20:11:40Z",
+            "last_commit": "2026-11-22T20:50:02Z",
             "open_issues": 16,
             "owner": "aregtech",
             "repo": "areg-sdk",
@@ -8599,7 +8551,7 @@
             "id": 1263549136,
             "language": "C",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-20T10:31:28Z",
+            "last_commit": "2026-11-23T13:17:45Z",
             "open_issues": 14,
             "owner": "cosmo-wander-ai",
             "repo": "cosmo-edge",
@@ -8664,7 +8616,7 @@
             "id": 1268287641,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-22T18:12:13Z",
+            "last_commit": "2026-11-23T22:26:44Z",
             "open_issues": 0,
             "owner": "larionovavi-stack",
             "repo": "genesis2-cascade-moe",
@@ -8702,7 +8654,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "NetData ★ 81431 ⧗ 0",
+          "title": "NetData ★ 81602 ⧗ 0",
           "description": "is a system for distributed real-time performance and health monitoring.",
           "children": [],
           "repo_info": {
@@ -8712,11 +8664,11 @@
             "id": 10744183,
             "language": "Go",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-22T19:27:17Z",
-            "open_issues": 474,
+            "last_commit": "2026-11-24T00:13:11Z",
+            "open_issues": 471,
             "owner": "netdata",
             "repo": "netdata",
-            "stars": 81588,
+            "stars": 81598,
             "topics": [
               "ai",
               "anomaly-detection",
@@ -8744,7 +8696,7 @@
         },
         {
           "node_type": "item",
-          "title": "Piwik ★ 22029 ⧗ 0",
+          "title": "Piwik ★ 22046 ⧗ 0",
           "description": "Piwik is the leading Free/Libre open analytics platform.",
           "children": [],
           "repo_info": {
@@ -8754,7 +8706,7 @@
             "id": 1548202,
             "language": "PHP",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-22T19:37:18Z",
+            "last_commit": "2026-11-23T23:38:24Z",
             "open_issues": 2373,
             "owner": "matomo-org",
             "repo": "matomo",
@@ -8855,11 +8807,11 @@
             "id": 87849739,
             "language": "Java",
             "license": "EPL-2.0",
-            "last_commit": "2026-11-22T13:28:10Z",
-            "open_issues": 109,
+            "last_commit": "2026-11-23T18:37:41Z",
+            "open_issues": 104,
             "owner": "eclipse-ditto",
             "repo": "ditto",
-            "stars": 953,
+            "stars": 954,
             "topics": [
               "digital-shadow",
               "digital-twin",
@@ -8912,7 +8864,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T20:25:22.566Z",
+    "last_updated": "2026-11-24T01:05:26.089Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome IoT. A collaborative list of great resources about IoT Framework, Library,  OS, Platform",
@@ -8920,11 +8872,11 @@
       "id": 42395733,
       "language": "Python",
       "license": "MIT",
-      "last_commit": "2026-11-17T11:54:07Z",
+      "last_commit": "2026-11-23T09:14:39Z",
       "open_issues": 2,
       "owner": "phodal",
       "repo": "awesome-iot",
-      "stars": 4635,
+      "stars": 4634,
       "topics": [
         "awesome-iot",
         "awesome-list",
@@ -8936,7 +8888,7 @@
         "iot-platform"
       ]
     },
-    "original_repository_sha": "11c2640cc2ff15757a3936bbbfceb2332005f140",
+    "original_repository_sha": "fc6977f8e7f9b1077b5168c5b19535b8b846c8b6",
     "enhanced_repository": "enhansome/enhansome-iot",
     "enhanced_repository_description": null,
     "title": "Awesome IoT with stars"
